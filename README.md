@@ -7,7 +7,9 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Contents
 - [Official](#official)
 - [BlogPosts](#blogposts)
+- [Tools](#tools)
 - [Videos](#videos)
+- [Examples](#examples)
 - [Podcasts](#podcasts)
 
 
@@ -29,6 +31,14 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Creating a Counter component without a single line of JS](https://dev.to/rajasegar/creating-a-counter-component-without-a-single-line-of-js-42d5)
 
 
+## Tools
+- [Extensions for using Django with htmx](https://github.com/adamchainz/django-htmx)
+- [The easiest way to work with HTMX in your Rails app](https://github.com/rootstrap/htmx-rails)
+- [Htmx Plugin for Craft CMS 3](https://github.com/putyourlightson/craft-htmx)
+- [Backend helpers for htmx](https://github.com/whamtet/ctmx)
+- [django-js-lib-htmx](https://github.com/nonZero/django-js-lib-htmx)
+
+
 ## Videos
 - [Active Search UI Pattern with HTMX and FLASK](https://www.youtube.com/watch?v=lfKC5F7qzUQ&ab_channel=LuisCortes)
 - [HTMX for ZERO JavaScript Drop Down Depending on other Drop Down](https://www.youtube.com/watch?v=zYs42XcpHYI&ab_channel=LuisCortes)
@@ -37,6 +47,23 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [HTMX/hyperscript demo with Transitions](https://www.youtube.com/watch?v=cubi-UChwh8)
 - [janet/joy/htmx/tailwind | Making a url shortener](https://www.youtube.com/watch?v=KM1ic4k6Has) 
 - [janet/joy/htmx/tailwind | Making a twitter competitor](https://www.youtube.com/watch?v=6eFw3yXasB4)
+
+
+## Examples
+- [express-ejs-htmx-playground](https://github.com/TomekKosakowski/express-ejs-htmx-playground) - Check and test how express works with EJS templates and htmx.
+- [htmxflask](https://github.com/cscortes/htmxflask) - All the HTMX samples redone using a flask server.
+- [htmx-with-aspnet-core](https://github.com/jerriepelser-blog/htmx-with-aspnet-core) - Htmx with asp.net core.
+- [django-htmx-fun](https://github.com/guettli/django-htmx-fun) - A small Django application to advertise the fun htmx can bring you.
+- [dj_pug_htmx_example](https://github.com/katsko/dj_pug_htmx_example)
+- [declswiplweb](https://github.com/Anniepoo/declswiplweb) - End to end declarative web programming with no JS using htmx and SWI-Prolog.
+- [pokebutt-htmx](https://github.com/beechnut/pokebutt-htmx) - Pokebutt clone using htmx.
+- [sinatara-htmx](https://github.com/johnthethird/sinatra-htmx)
+- [django-htmx-todo](https://github.com/jaredlockhart/django-htmx-todo)
+- [lagosta](https://github.com/jcpsantiago/lagosta) - Anti-fraud workflow automation using Clojure and HTMX.
+- [quarkus-htmx-todos](https://github.com/derkoe/quarkus-htmx-todos) - Todo App in Quarkus with htmx.
+- [htmx-todo-app](https://github.com/libsyz/htmx-to-do-app) - A little to-do app and a short demo of htmx built with Sinatra.
+- [htmx-modal-example](https://github.com/benpate/htmx-modal-example) - An experiment to work design modal dialogs in HTMX.
+
 
 
 ## Podcasts
