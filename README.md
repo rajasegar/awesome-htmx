@@ -35,9 +35,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Extensions for using Django with htmx](https://github.com/adamchainz/django-htmx)
 - [The easiest way to work with HTMX in your Rails app](https://github.com/rootstrap/htmx-rails)
 - [Htmx Plugin for Craft CMS 3](https://github.com/putyourlightson/craft-htmx)
-- [Backend helpers for htmx](https://github.com/whamtet/ctmx)
 - [django-js-lib-htmx](https://github.com/nonZero/django-js-lib-htmx)
-- [ctmx - backend tools for htmx](https://whamtet.github.io/ctmx/)
+- [ctmx](https://whamtet.github.io/ctmx/) - Backend tools for htmx
 
 
 ## Videos
