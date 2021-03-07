@@ -37,6 +37,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Htmx Plugin for Craft CMS 3](https://github.com/putyourlightson/craft-htmx)
 - [Backend helpers for htmx](https://github.com/whamtet/ctmx)
 - [django-js-lib-htmx](https://github.com/nonZero/django-js-lib-htmx)
+- [cmtx - backend tools for htmx](https://whamtet.github.io/ctmx/)
 
 
 ## Videos
