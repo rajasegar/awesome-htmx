@@ -29,6 +29,10 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Notes on HTMX](https://blog.ajbothe.com/notes-on-htmx)
 - [Creating a Temperature Converter without a single line of JS](https://dev.to/rajasegar/creating-a-temperature-converter-without-a-single-line-of-js-4cp1)
 - [Creating a Counter component without a single line of JS](https://dev.to/rajasegar/creating-a-counter-component-without-a-single-line-of-js-42d5)
+- [Creating a Flight Booker component without a single line of JS](https://dev.to/rajasegar/creating-a-flight-booker-component-without-a-single-line-of-js-354e)
+- [Creating a Github profile search component in htmx](https://dev.to/rajasegar/creating-a-github-profile-search-component-in-htmx-1pl5)
+- [Lazy Load Form Fields In Rails With HTMX](https://dev.to/dalezak/lazy-load-form-fields-in-rails-with-htmx-pm0)
+- [Handle JSON API Results in Htmx](https://dev.to/marcusatlocalhost/handle-json-api-results-in-htmx-f46)
 
 
 ## Tools
@@ -63,6 +67,13 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [quarkus-htmx-todos](https://github.com/derkoe/quarkus-htmx-todos) - Todo App in Quarkus with htmx.
 - [htmx-todo-app](https://github.com/libsyz/htmx-to-do-app) - A little to-do app and a short demo of htmx built with Sinatra.
 - [htmx-modal-example](https://github.com/benpate/htmx-modal-example) - An experiment to work design modal dialogs in HTMX.
+- [Geo Selector in htmlx](https://github.com/rajasegar/htmx-geo-selector) - A Region, Sub-Region and Country selector based on user selections.
+- [todomvc-htmx](https://github.com/rajasegar/todomvc-htmx) - TodoMVC app implemented using htmx and hyperscript.
+- [hx-swap-demo](https://github.com/rajasegar/hx-swap-demo) - A demo app to showcase different attribute values of hx-swap in htmx.
+- [htmx-twitter-clone](https://github.com/rajasegar/htmx-twitter-clone) - A Twitter clone built using htmx.
+- [super-rentals-htmx](https://github.com/rajasegar/super-rentals-htmx) - A Rentals Listing demo app built with htmx.
+- [htmx-githuh-search](https://github.com/rajasegar/htmx-github-search) - A Github Profile search component built using htmx.
+- [todo-htmx](https://github.com/rajasegar/todo-htmx) - A simple Todo list with Express and htmx.
 
 
 
