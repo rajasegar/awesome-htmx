@@ -30,7 +30,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Creating a Temperature Converter without a single line of JS](https://dev.to/rajasegar/creating-a-temperature-converter-without-a-single-line-of-js-4cp1)
 - [Creating a Counter component without a single line of JS](https://dev.to/rajasegar/creating-a-counter-component-without-a-single-line-of-js-42d5)
 - [Creating a Flight Booker component without a single line of JS](https://dev.to/rajasegar/creating-a-flight-booker-component-without-a-single-line-of-js-354e)
-- [Creating a Github profile search component in htmx](https://dev.to/rajasegar/creating-a-github-profile-search-component-in-htmx-1pl5)
+- [Creating a GitHub profile search component in htmx](https://dev.to/rajasegar/creating-a-github-profile-search-component-in-htmx-1pl5)
 - [Lazy Load Form Fields In Rails With HTMX](https://dev.to/dalezak/lazy-load-form-fields-in-rails-with-htmx-pm0)
 - [Handle JSON API Results in Htmx](https://dev.to/marcusatlocalhost/handle-json-api-results-in-htmx-f46)
 
@@ -40,7 +40,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [The easiest way to work with HTMX in your Rails app](https://github.com/rootstrap/htmx-rails)
 - [Htmx Plugin for Craft CMS 3](https://github.com/putyourlightson/craft-htmx)
 - [django-js-lib-htmx](https://github.com/nonZero/django-js-lib-htmx)
-- [ctmx](https://whamtet.github.io/ctmx/) - Backend tools for htmx
+- [ctmx](https://whamtet.github.io/ctmx/) - Backend tools for htmx.
 
 
 ## Videos
@@ -72,7 +72,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [hx-swap-demo](https://github.com/rajasegar/hx-swap-demo) - A demo app to showcase different attribute values of hx-swap in htmx.
 - [htmx-twitter-clone](https://github.com/rajasegar/htmx-twitter-clone) - A Twitter clone built using htmx.
 - [super-rentals-htmx](https://github.com/rajasegar/super-rentals-htmx) - A Rentals Listing demo app built with htmx.
-- [htmx-githuh-search](https://github.com/rajasegar/htmx-github-search) - A Github Profile search component built using htmx.
+- [htmx-githuh-search](https://github.com/rajasegar/htmx-github-search) - A GitHub Profile search component built using htmx.
 - [todo-htmx](https://github.com/rajasegar/todo-htmx) - A simple Todo list with Express and htmx.
 
 
