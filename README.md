@@ -72,8 +72,11 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [hx-swap-demo](https://github.com/rajasegar/hx-swap-demo) - A demo app to showcase different attribute values of hx-swap in htmx.
 - [htmx-twitter-clone](https://github.com/rajasegar/htmx-twitter-clone) - A Twitter clone built using htmx.
 - [super-rentals-htmx](https://github.com/rajasegar/super-rentals-htmx) - A Rentals Listing demo app built with htmx.
-- [htmx-githuh-search](https://github.com/rajasegar/htmx-github-search) - A GitHub Profile search component built using htmx.
+- [htmx-github-search](https://github.com/rajasegar/htmx-github-search) - A GitHub Profile search component built using htmx.
 - [todo-htmx](https://github.com/rajasegar/todo-htmx) - A simple Todo list with Express and htmx.
+- [htmx-calendar](https://github.com/rajasegar/htmx-calendar) - Calendar component in htmx.
+- [htmx-tabular](https://github.com/rajasegar/htmx-tabular) - Tabular data with htmx.
+- [htmbox](https://htmbox.herokuapp.com) - A Dropbox clone in htmx.
 
 
 
