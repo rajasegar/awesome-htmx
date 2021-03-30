@@ -33,6 +33,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Creating a GitHub profile search component in htmx](https://dev.to/rajasegar/creating-a-github-profile-search-component-in-htmx-1pl5)
 - [Lazy Load Form Fields In Rails With HTMX](https://dev.to/dalezak/lazy-load-form-fields-in-rails-with-htmx-pm0)
 - [Handle JSON API Results in Htmx](https://dev.to/marcusatlocalhost/handle-json-api-results-in-htmx-f46)
+- [Rapid Prototyping with Django, htmx, and Tailwind CSS](https://testdriven.io/blog/django-htmx-tailwind/)
+- [Rapid Prototyping with Flask, htmx, and Tailwind CSS](https://testdriven.io/blog/flask-htmx-tailwind/)
 
 
 ## Tools
