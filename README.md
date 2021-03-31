@@ -69,7 +69,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [quarkus-htmx-todos](https://github.com/derkoe/quarkus-htmx-todos) - Todo App in Quarkus with htmx.
 - [htmx-todo-app](https://github.com/libsyz/htmx-to-do-app) - A little to-do app and a short demo of htmx built with Sinatra.
 - [htmx-modal-example](https://github.com/benpate/htmx-modal-example) - An experiment to work design modal dialogs in HTMX.
-- [Geo Selector in htmlx](https://github.com/rajasegar/htmx-geo-selector) - A Region, Sub-Region and Country selector based on user selections.
+- [Geo Selector in htmx](https://github.com/rajasegar/htmx-geo-selector) - A Region, Sub-Region and Country selector based on user selections.
 - [todomvc-htmx](https://github.com/rajasegar/todomvc-htmx) - TodoMVC app implemented using htmx and hyperscript.
 - [hx-swap-demo](https://github.com/rajasegar/hx-swap-demo) - A demo app to showcase different attribute values of hx-swap in htmx.
 - [htmx-twitter-clone](https://github.com/rajasegar/htmx-twitter-clone) - A Twitter clone built using htmx.
@@ -79,6 +79,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [htmx-calendar](https://github.com/rajasegar/htmx-calendar) - Calendar component in htmx.
 - [htmx-tabular](https://github.com/rajasegar/htmx-tabular) - Tabular data with htmx.
 - [htmbox](https://htmbox.herokuapp.com) - A Dropbox clone in htmx.
+- [html-over-the-wire](https://html-over-the-wire) - A web site built with htmx to compare different HTML over the wire solutions.
 
 
 
