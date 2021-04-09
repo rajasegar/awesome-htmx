@@ -80,6 +80,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [htmx-tabular](https://github.com/rajasegar/htmx-tabular) - Tabular data with htmx.
 - [htmbox](https://htmbox.herokuapp.com) - A Dropbox clone in htmx.
 - [html-over-the-wire](https://html-over-the-wire.herokuapp.com) - A web site built with htmx to compare different HTML over the wire solutions.
+- [htmx-notes](https://htmx-notes.herokuapp.com) - A Note-taking app using Markdown inspired by React Server Components demo.
 
 
 
