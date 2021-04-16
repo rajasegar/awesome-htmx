@@ -38,7 +38,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 
 ## Tools
-- [Extensions for using Django with htmx](https://github.com/adamchainz/django-htmx)
+- [django-htmx](https://github.com/adamchainz/django-htmx) - Django package for using htmx.
 - [The easiest way to work with HTMX in your Rails app](https://github.com/rootstrap/htmx-rails)
 - [Htmx Plugin for Craft CMS 3](https://github.com/putyourlightson/craft-htmx)
 - [django-js-lib-htmx](https://github.com/nonZero/django-js-lib-htmx)
@@ -47,7 +47,6 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Videos
 - [Active Search UI Pattern with HTMX and FLASK](https://www.youtube.com/watch?v=lfKC5F7qzUQ&ab_channel=LuisCortes)
-- [django-htmx](https://github.com/adamchainz/django-htmx) - Django package for using htmx.
 - [HTMX for ZERO JavaScript Drop Down Depending on other Drop Down](https://www.youtube.com/watch?v=zYs42XcpHYI&ab_channel=LuisCortes)
 - [Python Bytes 219: HTMX: Dynamic and live HTML without JavaScript - Live Stream](https://www.youtube.com/watch?v=LAdksPSd6ZA)
 - [HTMX/hyperscript demo](https://www.youtube.com/watch?v=MQ0_yh_OhQY)
