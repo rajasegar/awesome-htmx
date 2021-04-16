@@ -47,6 +47,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Videos
 - [Active Search UI Pattern with HTMX and FLASK](https://www.youtube.com/watch?v=lfKC5F7qzUQ&ab_channel=LuisCortes)
+- [django-htmx](https://github.com/adamchainz/django-htmx) - Django package for using htmx.
 - [HTMX for ZERO JavaScript Drop Down Depending on other Drop Down](https://www.youtube.com/watch?v=zYs42XcpHYI&ab_channel=LuisCortes)
 - [Python Bytes 219: HTMX: Dynamic and live HTML without JavaScript - Live Stream](https://www.youtube.com/watch?v=LAdksPSd6ZA)
 - [HTMX/hyperscript demo](https://www.youtube.com/watch?v=MQ0_yh_OhQY)
@@ -59,6 +60,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [express-ejs-htmx-playground](https://github.com/TomekKosakowski/express-ejs-htmx-playground) - Check and test how express works with EJS templates and htmx.
 - [htmxflask](https://github.com/cscortes/htmxflask) - All the HTMX samples redone using a flask server.
 - [htmx-with-aspnet-core](https://github.com/jerriepelser-blog/htmx-with-aspnet-core) - Htmx with asp.net core.
+- [django-htmx example app](https://github.com/adamchainz/django-htmx/tree/main/example) - Example Django app showing a few patterns.
 - [django-htmx-fun](https://github.com/guettli/django-htmx-fun) - A small Django application to advertise the fun htmx can bring you.
 - [dj_pug_htmx_example](https://github.com/katsko/dj_pug_htmx_example)
 - [declswiplweb](https://github.com/Anniepoo/declswiplweb) - End to end declarative web programming with no JS using htmx and SWI-Prolog.
