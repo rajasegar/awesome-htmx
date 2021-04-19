@@ -89,3 +89,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Episode #219: HTMX: Dynamic and live HTML without JavaScript](https://pythonbytes.fm/episodes/show/219/htmx-dynamic-and-live-html-without-javascript) - Podcast about htmx in Pythonbytes.fm.
 - [Dynamic HTML with htmx](https://devmode.fm/episodes/dynamic-html-with-htmx) - Devmode.fm episode about htmx.
 - [htmX](https://www.listennotes.com/podcasts/programmers-quickie/htmx-AwxIkj8mcQf/) - Podcast about htmx in Programmers quickie.
+- [Less JavaScript more HTMX](https://changelog.com/jsparty/171) - JSParty Episode about htmx with Carson.
