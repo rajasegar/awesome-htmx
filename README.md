@@ -66,6 +66,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [pokebutt-htmx](https://github.com/beechnut/pokebutt-htmx) - Pokebutt clone using htmx.
 - [sinatara-htmx](https://github.com/johnthethird/sinatra-htmx)
 - [django-htmx-todo](https://github.com/jaredlockhart/django-htmx-todo)
+- [django-htmx-todo-list](https://github.com/OmenApps/django-htmx-todo-list) Expands on django-htmx-todo to add task creation, editing, and deletion using FBVs.
 - [lagosta](https://github.com/jcpsantiago/lagosta) - Anti-fraud workflow automation using Clojure and HTMX.
 - [quarkus-htmx-todos](https://github.com/derkoe/quarkus-htmx-todos) - Todo App in Quarkus with htmx.
 - [htmx-todo-app](https://github.com/libsyz/htmx-to-do-app) - A little to-do app and a short demo of htmx built with Sinatra.
