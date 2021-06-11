@@ -39,11 +39,12 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 
 ## Tools
-- [django-htmx](https://github.com/adamchainz/django-htmx) - Django package for using htmx.
-- [The easiest way to work with HTMX in your Rails app](https://github.com/rootstrap/htmx-rails)
-- [Htmx Plugin for Craft CMS 3](https://github.com/putyourlightson/craft-htmx)
-- [django-js-lib-htmx](https://github.com/nonZero/django-js-lib-htmx)
-- [ctmx](https://whamtet.github.io/ctmx/) - Backend tools for htmx.
+
+- [craft-htmx](https://github.com/putyourlightson/craft-htmx) - Craft CMS plugin.
+- [ctmx](https://whamtet.github.io/ctmx/) - Clojure integration.
+- [django-htmx](https://github.com/adamchainz/django-htmx) - Django integration.
+- [django-js-lib-htmx](https://github.com/nonZero/django-js-lib-htmx) - Django package containing the htmx scripts.
+- [htmx-rails](https://github.com/rootstrap/htmx-rails) - Rails integration.
 
 
 ## Videos
