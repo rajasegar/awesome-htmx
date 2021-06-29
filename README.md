@@ -55,6 +55,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [HTMX/hyperscript demo with Transitions](https://www.youtube.com/watch?v=cubi-UChwh8)
 - [janet/joy/htmx/tailwind | Making a url shortener](https://www.youtube.com/watch?v=KM1ic4k6Has) 
 - [janet/joy/htmx/tailwind | Making a twitter competitor](https://www.youtube.com/watch?v=6eFw3yXasB4)
+- [HTMX - Clean Dynamic HTML Pages Talk Python Live Stream](https://www.youtube.com/watch?v=4wjqsPtj2QY)
 
 
 ## Examples
@@ -85,6 +86,9 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [htmbox](https://htmbox.herokuapp.com) - A Dropbox clone in htmx.
 - [html-over-the-wire](https://html-over-the-wire.herokuapp.com) - A web site built with htmx to compare different HTML over the wire solutions.
 - [htmx-notes](https://htmx-notes.herokuapp.com) - A Note-taking app using Markdown inspired by React Server Components demo.
+- [ccl-demo-raja](https://github.com/rajasegar/ccl-demo-raja) - A Common Lisp demo with htmx using Star wars API.
+- [owela-club](https://github.com/adamchainz/owela-club) - Play the Namibian game of Owela against a terrible AI. Built using Django and htmx. 
+- [htmx and SSE with FastAPI](https://github.com/vlcinsky/fastapi-sse-htmx) - FastAPI based web app sending Server Sent Events to frontend app created with htmx.
 
 
 
@@ -94,3 +98,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Dynamic HTML with htmx](https://devmode.fm/episodes/dynamic-html-with-htmx) - Devmode.fm episode about htmx.
 - [htmX](https://www.listennotes.com/podcasts/programmers-quickie/htmx-AwxIkj8mcQf/) - Podcast about htmx in Programmers quickie.
 - [Less JavaScript more HTMX](https://changelog.com/jsparty/171) - JSParty Episode about htmx with Carson.
+- [JavaScript right in HTML?](https://podcast.htmlallthethings.com/e/javascript-right-in-html-htmx-w-carson/) - HTMLallthethings episode with Carson.
