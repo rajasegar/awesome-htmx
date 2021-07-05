@@ -21,6 +21,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Examples](https://htmx.org/examples/)
 - [htmx on Stack Overflow](https://stackoverflow.com/questions/tagged/htmx)
 
+
 ## BlogPosts
 - [HackerNews Post](https://news.ycombinator.com/item?id=23330881) - Htmx – high power tools for HTML.
 - [Learning AJAX made easy - Build an app with htmx](https://dev.to/libsyz/learning-ajax-made-easy-build-an-app-with-htmx-gie)
@@ -39,7 +40,6 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 
 ## Tools
-
 - [craft-htmx](https://github.com/putyourlightson/craft-htmx) - Craft CMS plugin.
 - [ctmx](https://whamtet.github.io/ctmx/) - Clojure integration.
 - [django-htmx](https://github.com/adamchainz/django-htmx) - Django integration.
@@ -56,6 +56,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [janet/joy/htmx/tailwind | Making a url shortener](https://www.youtube.com/watch?v=KM1ic4k6Has) 
 - [janet/joy/htmx/tailwind | Making a twitter competitor](https://www.youtube.com/watch?v=6eFw3yXasB4)
 - [HTMX - Clean Dynamic HTML Pages Talk Python Live Stream](https://www.youtube.com/watch?v=4wjqsPtj2QY)
+- [Dynamic Django forms without writing any JavaScript](https://www.youtube.com/watch?v=414ONE1UbCA)
 
 
 ## Examples
@@ -89,7 +90,6 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [ccl-demo-raja](https://github.com/rajasegar/ccl-demo-raja) - A Common Lisp demo with htmx using Star wars API.
 - [owela-club](https://github.com/adamchainz/owela-club) - Play the Namibian game of Owela against a terrible AI. Built using Django and htmx. 
 - [htmx and SSE with FastAPI](https://github.com/vlcinsky/fastapi-sse-htmx) - FastAPI based web app sending Server Sent Events to frontend app created with htmx.
-
 
 
 ## Podcasts
