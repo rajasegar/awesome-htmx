@@ -57,6 +57,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [janet/joy/htmx/tailwind | Making a twitter competitor](https://www.youtube.com/watch?v=6eFw3yXasB4)
 - [HTMX - Clean Dynamic HTML Pages Talk Python Live Stream](https://www.youtube.com/watch?v=4wjqsPtj2QY)
 - [Dynamic Django forms without writing any JavaScript](https://www.youtube.com/watch?v=414ONE1UbCA)
+- [Simple, Fast Frontends With htmx](https://www.youtube.com/watch?v=cBfz4W_KvEI)
 
 
 ## Examples
@@ -90,6 +91,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [ccl-demo-raja](https://github.com/rajasegar/ccl-demo-raja) - A Common Lisp demo with htmx using Star wars API.
 - [owela-club](https://github.com/adamchainz/owela-club) - Play the Namibian game of Owela against a terrible AI. Built using Django and htmx. 
 - [htmx and SSE with FastAPI](https://github.com/vlcinsky/fastapi-sse-htmx) - FastAPI based web app sending Server Sent Events to frontend app created with htmx.
+- [cl-trello-clone](https://github.com/rajasegar/cl-trello-clone) - A small Trello clone built in Common Lisp
 
 
 ## Podcasts
@@ -99,3 +101,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [htmX](https://www.listennotes.com/podcasts/programmers-quickie/htmx-AwxIkj8mcQf/) - Podcast about htmx in Programmers quickie.
 - [Less JavaScript more HTMX](https://changelog.com/jsparty/171) - JSParty Episode about htmx with Carson.
 - [JavaScript right in HTML?](https://podcast.htmlallthethings.com/e/javascript-right-in-html-htmx-w-carson/) - HTMLallthethings episode with Carson.
+- [Django Chat: htmx - Carson Gross](https://www.djangochat.com/episodes/htmx-carson-gross)
