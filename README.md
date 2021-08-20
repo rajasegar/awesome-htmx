@@ -92,6 +92,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [owela-club](https://github.com/adamchainz/owela-club) - Play the Namibian game of Owela against a terrible AI. Built using Django and htmx. 
 - [htmx and SSE with FastAPI](https://github.com/vlcinsky/fastapi-sse-htmx) - FastAPI based web app sending Server Sent Events to frontend app created with htmx.
 - [cl-trello-clone](https://github.com/rajasegar/cl-trello-clone) - A small Trello clone built in Common Lisp
+- [aspnet-core-htmx-example](https://github.com/mryderie/aspnet-core-htmx-example) - Demonstrates the use of htmx with ASP.NET Core Razor Pages to create a simple CRUD web application.
 
 
 ## Podcasts
