@@ -26,7 +26,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [HackerNews Post](https://news.ycombinator.com/item?id=23330881) - Htmx – high power tools for HTML.
 - [Learning AJAX made easy - Build an app with htmx](https://dev.to/libsyz/learning-ajax-made-easy-build-an-app-with-htmx-gie)
 - [How To Use Htmx in Django](https://www.mattlayman.com/blog/2021/how-to-htmx-django/)
-- [Using HTMX with ASP.NET Core: Introduction](https://www.jerriepelser.com/blog/using-htmx-with-aspnet-core/)
+- [Using HTMX with ASP.NET Core: Introduction](https://www.jerriepelser.com/blog/using-htmx-with-aspnet-core/) - Part of a series of blog posts on using HTMX with ASP.NET
 - [Notes on HTMX](https://blog.ajbothe.com/notes-on-htmx)
 - [Creating a Temperature Converter without a single line of JS](https://dev.to/rajasegar/creating-a-temperature-converter-without-a-single-line-of-js-4cp1)
 - [Creating a Counter component without a single line of JS](https://dev.to/rajasegar/creating-a-counter-component-without-a-single-line-of-js-42d5)
@@ -37,6 +37,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Rapid Prototyping with Django, htmx, and Tailwind CSS](https://testdriven.io/blog/django-htmx-tailwind/)
 - [Rapid Prototyping with Flask, htmx, and Tailwind CSS](https://testdriven.io/blog/flask-htmx-tailwind/)
 - [Ajax-Enabled Checkbox and Select with Django and HTMX](https://jacklinke.com/ajax-enabled-checkbox-and-select-with-django-and-htmx)
+- [Django Formsets Tutorial - Build dynamic forms with Htmx](https://justdjango.com/blog/dynamic-forms-in-django-htmx)
+- [Django, HTMX and Alpine.JS: A Match Made In Heaven](https://dev.to/nicholas_moen/what-i-learned-while-using-django-with-htmx-and-alpine-js-24jg)
 
 
 ## Tools
@@ -58,6 +60,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [HTMX - Clean Dynamic HTML Pages Talk Python Live Stream](https://www.youtube.com/watch?v=4wjqsPtj2QY)
 - [Dynamic Django forms without writing any JavaScript](https://www.youtube.com/watch?v=414ONE1UbCA)
 - [Simple, Fast Frontends With htmx](https://www.youtube.com/watch?v=cBfz4W_KvEI)
+- [Try Django 3.2 - Python Web Development Tutorial Series](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRMby_cSoWTFw8zaMdTEXgL) HTMX-specific content starts at video 65
 
 
 ## Examples
@@ -93,6 +96,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [htmx and SSE with FastAPI](https://github.com/vlcinsky/fastapi-sse-htmx) - FastAPI based web app sending Server Sent Events to frontend app created with htmx.
 - [cl-trello-clone](https://github.com/rajasegar/cl-trello-clone) - A small Trello clone built in Common Lisp
 - [aspnet-core-htmx-example](https://github.com/mryderie/aspnet-core-htmx-example) - Demonstrates the use of htmx with ASP.NET Core Razor Pages to create a simple CRUD web application.
+- [django-htmx-alpine](https://github.com/arcanemachine/django-htmx-alpine/) - Basic todo list with Django, HTMX, and Alpine. Features a [live demonstration](https://django-htmx-alpine.nicholasmoen.com/).
+- [cl-github-timeline](https://github.com/rajasegar/cl-github-timeline) Github timeline in Common Lisp, and [another example based on this one](https://github.com/vlcinsky/python-fastapi-github-timeline) using FastAPI.
 
 
 ## Podcasts
@@ -103,3 +108,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Less JavaScript more HTMX](https://changelog.com/jsparty/171) - JSParty Episode about htmx with Carson.
 - [JavaScript right in HTML?](https://podcast.htmlallthethings.com/e/javascript-right-in-html-htmx-w-carson/) - HTMLallthethings episode with Carson.
 - [Django Chat: htmx - Carson Gross](https://www.djangochat.com/episodes/htmx-carson-gross)
+- [HTML All The Things - HTMX, Hyperscript, and More!](https://www.htmlallthethings.com/blog-posts/htmx-hyperscript-and-more)
