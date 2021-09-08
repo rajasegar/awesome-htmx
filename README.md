@@ -63,22 +63,26 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Try Django 3.2 - Python Web Development Tutorial Series](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRMby_cSoWTFw8zaMdTEXgL) HTMX-specific content starts at video 65
 
 
-## Examples
-- [express-ejs-htmx-playground](https://github.com/TomekKosakowski/express-ejs-htmx-playground) - Check and test how express works with EJS templates and htmx.
-- [htmxflask](https://github.com/cscortes/htmxflask) - All the HTMX samples redone using a flask server.
+## Examples by Back-end
+
+
+### ASP.net
 - [htmx-with-aspnet-core](https://github.com/jerriepelser-blog/htmx-with-aspnet-core) - Htmx with asp.net core.
-- [django-htmx example app](https://github.com/adamchainz/django-htmx/tree/main/example) - Example Django app showing a few patterns.
-- [django-htmx-fun](https://github.com/guettli/django-htmx-fun) - A small Django application to advertise the fun htmx can bring you.
-- [dj_pug_htmx_example](https://github.com/katsko/dj_pug_htmx_example)
-- [declswiplweb](https://github.com/Anniepoo/declswiplweb) - End to end declarative web programming with no JS using htmx and SWI-Prolog.
-- [pokebutt-htmx](https://github.com/beechnut/pokebutt-htmx) - Pokebutt clone using htmx.
-- [sinatara-htmx](https://github.com/johnthethird/sinatra-htmx)
-- [django-htmx-todo](https://github.com/jaredlockhart/django-htmx-todo)
-- [django-htmx-todo-list](https://github.com/OmenApps/django-htmx-todo-list) - Expands on django-htmx-todo to add task creation, editing, and deletion using FBVs.
+- [aspnet-core-htmx-example](https://github.com/mryderie/aspnet-core-htmx-example) - Demonstrates the use of htmx with ASP.NET Core Razor Pages to create a simple CRUD web application.
+
+
+### Clojure
 - [lagosta](https://github.com/jcpsantiago/lagosta) - Anti-fraud workflow automation using Clojure and HTMX.
-- [quarkus-htmx-todos](https://github.com/derkoe/quarkus-htmx-todos) - Todo App in Quarkus with htmx.
-- [htmx-todo-app](https://github.com/libsyz/htmx-to-do-app) - A little to-do app and a short demo of htmx built with Sinatra.
-- [htmx-modal-example](https://github.com/benpate/htmx-modal-example) - An experiment to work design modal dialogs in HTMX.
+
+
+### Common Lisp
+- [ccl-demo-raja](https://github.com/rajasegar/ccl-demo-raja) - A Common Lisp demo with htmx using Star wars API.
+- [cl-trello-clone](https://github.com/rajasegar/cl-trello-clone) - A small Trello clone built in Common Lisp
+- [cl-github-timeline](https://github.com/rajasegar/cl-github-timeline) Github timeline in Common Lisp, and [another example based on this one](https://github.com/vlcinsky/python-fastapi-github-timeline) using FastAPI.
+
+
+### Express
+- [express-ejs-htmx-playground](https://github.com/TomekKosakowski/express-ejs-htmx-playground) - Check and test how express works with EJS templates and htmx.
 - [Geo Selector in htmx](https://github.com/rajasegar/htmx-geo-selector) - A Region, Sub-Region and Country selector based on user selections.
 - [todomvc-htmx](https://github.com/rajasegar/todomvc-htmx) - TodoMVC app implemented using htmx and hyperscript.
 - [hx-swap-demo](https://github.com/rajasegar/hx-swap-demo) - A demo app to showcase different attribute values of hx-swap in htmx.
@@ -88,16 +92,32 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [todo-htmx](https://github.com/rajasegar/todo-htmx) - A simple Todo list with Express and htmx.
 - [htmx-calendar](https://github.com/rajasegar/htmx-calendar) - Calendar component in htmx.
 - [htmx-tabular](https://github.com/rajasegar/htmx-tabular) - Tabular data with htmx.
-- [htmbox](https://htmbox.herokuapp.com) - A Dropbox clone in htmx.
-- [html-over-the-wire](https://html-over-the-wire.herokuapp.com) - A web site built with htmx to compare different HTML over the wire solutions.
-- [htmx-notes](https://htmx-notes.herokuapp.com) - A Note-taking app using Markdown inspired by React Server Components demo.
-- [ccl-demo-raja](https://github.com/rajasegar/ccl-demo-raja) - A Common Lisp demo with htmx using Star wars API.
+- [htmbox](https://github.com/rajasegar/htmx-dropbox) - A Dropbox clone in htmx. [Live Demo](https://htmbox.herokuapp.com)
+- [htmx-notes](https://github.com/rajasegar/htmx-notes) - A Note-taking app using Markdown inspired by React Server Components demo. [Live Demo](https://htmx-notes.herokuapp.com)
+
+
+### Python-based (Django, FastAPI, Flask)
+- [django-htmx example app](https://github.com/adamchainz/django-htmx/tree/main/example) - Example Django app showing a few patterns.
+- [django-htmx-fun](https://github.com/guettli/django-htmx-fun) - A small Django application to advertise the fun htmx can bring you.
+- [django-htmx-todo](https://github.com/jaredlockhart/django-htmx-todo)
+- [django-htmx-todo-list](https://github.com/OmenApps/django-htmx-todo-list) - Expands on django-htmx-todo to add task creation, editing, and deletion using FBVs.
 - [owela-club](https://github.com/adamchainz/owela-club) - Play the Namibian game of Owela against a terrible AI. Built using Django and htmx. 
-- [htmx and SSE with FastAPI](https://github.com/vlcinsky/fastapi-sse-htmx) - FastAPI based web app sending Server Sent Events to frontend app created with htmx.
-- [cl-trello-clone](https://github.com/rajasegar/cl-trello-clone) - A small Trello clone built in Common Lisp
-- [aspnet-core-htmx-example](https://github.com/mryderie/aspnet-core-htmx-example) - Demonstrates the use of htmx with ASP.NET Core Razor Pages to create a simple CRUD web application.
 - [django-htmx-alpine](https://github.com/arcanemachine/django-htmx-alpine/) - Basic todo list with Django, HTMX, and Alpine. Features a [live demonstration](https://django-htmx-alpine.nicholasmoen.com/).
-- [cl-github-timeline](https://github.com/rajasegar/cl-github-timeline) Github timeline in Common Lisp, and [another example based on this one](https://github.com/vlcinsky/python-fastapi-github-timeline) using FastAPI.
+- [dj_pug_htmx_example](https://github.com/katsko/dj_pug_htmx_example) - HTMX, Pug, and Django experiments
+- [htmxflask](https://github.com/cscortes/htmxflask) - All the HTMX samples redone using a flask server.
+- [htmx and SSE with FastAPI](https://github.com/vlcinsky/fastapi-sse-htmx) - FastAPI based web app sending Server Sent Events to frontend app created with htmx.
+
+
+### Ruby
+- [sinatara-htmx](https://github.com/johnthethird/sinatra-htmx) - Example of a Sinatra app using HTMX for implementing an interactive search
+- [pokebutt-htmx](https://github.com/beechnut/pokebutt-htmx) - Pokebutt clone using htmx.
+- [htmx-todo-app](https://github.com/libsyz/htmx-to-do-app) - A little to-do app and a short demo of htmx built with Sinatra.
+
+
+### Other
+- [declswiplweb](https://github.com/Anniepoo/declswiplweb) - End to end declarative web programming with no JS using htmx and SWI-Prolog.
+- [htmx-modal-example](https://github.com/benpate/htmx-modal-example) - An experiment to work design modal dialogs in HTMX.
+- [quarkus-htmx-todos](https://github.com/derkoe/quarkus-htmx-todos) - Todo App in Quarkus with htmx.
 
 
 ## Podcasts
