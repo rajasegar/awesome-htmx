@@ -129,3 +129,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [JavaScript right in HTML?](https://podcast.htmlallthethings.com/e/javascript-right-in-html-htmx-w-carson/) - HTMLallthethings episode with Carson.
 - [Django Chat: htmx - Carson Gross](https://www.djangochat.com/episodes/htmx-carson-gross)
 - [HTML All The Things - HTMX, Hyperscript, and More!](https://www.htmlallthethings.com/blog-posts/htmx-hyperscript-and-more)
+- [.NET Rocks! - htmx with Carson Gross](https://www.dotnetrocks.com/?show=1749) - An overview of htmx, and a discussion from a .NET perspective
