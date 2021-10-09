@@ -104,6 +104,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [owela-club](https://github.com/adamchainz/owela-club) - Play the Namibian game of Owela against a terrible AI. Built using Django and htmx. 
 - [django-htmx-alpine](https://github.com/arcanemachine/django-htmx-alpine/) - Basic todo list with Django, HTMX, and Alpine. Features a [live demonstration](https://django-htmx-alpine.nicholasmoen.com/).
 - [dj_pug_htmx_example](https://github.com/katsko/dj_pug_htmx_example) - HTMX, Pug, and Django experiments
+- [Lexicon App](https://github.com/jgirardet/djlexique) - Lexicon app using django3.2, htmx, hyperscript.
 - [htmxflask](https://github.com/cscortes/htmxflask) - All the HTMX samples redone using a flask server.
 - [htmx and SSE with FastAPI](https://github.com/vlcinsky/fastapi-sse-htmx) - FastAPI based web app sending Server Sent Events to frontend app created with htmx.
 
