@@ -107,6 +107,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Lexicon App](https://github.com/jgirardet/djlexique) - Lexicon app using django3.2, htmx, hyperscript.
 - [htmxflask](https://github.com/cscortes/htmxflask) - All the HTMX samples redone using a flask server.
 - [htmx and SSE with FastAPI](https://github.com/vlcinsky/fastapi-sse-htmx) - FastAPI based web app sending Server Sent Events to frontend app created with htmx.
+- [fast-htmx](https://github.com/marty331/fasthtmx) - Fast-HTMX is a demo project of FastAPI an HTMX. The purpose of this project is to illustrate how to create a website with no JavaScript, using only HTML, CSS, and Python.
 
 
 ### Ruby
