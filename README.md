@@ -97,6 +97,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 
 ### Python-based (Django, FastAPI, Flask)
+- [flask-htmx-boilerplate](https://github.com/marcusschiesser/flask-htmx-boilerplate) - Boilerplate template for a Python Flask application with HTMX and Tailwind CSS
 - [django-htmx example app](https://github.com/adamchainz/django-htmx/tree/main/example) - Example Django app showing a few patterns.
 - [django-htmx-fun](https://github.com/guettli/django-htmx-fun) - A small Django application to advertise the fun htmx can bring you.
 - [django-htmx-todo](https://github.com/jaredlockhart/django-htmx-todo)
