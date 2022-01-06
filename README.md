@@ -110,6 +110,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [htmx and SSE with FastAPI](https://github.com/vlcinsky/fastapi-sse-htmx) - FastAPI based web app sending Server Sent Events to frontend app created with htmx.
 - [fast-htmx](https://github.com/marty331/fasthtmx) - Fast-HTMX is a demo project of FastAPI an HTMX. The purpose of this project is to illustrate how to create a website with no JavaScript, using only HTML, CSS, and Python.
 - [Flask-Sock HTMX](https://github.com/paluigi/flask-htmx) - Very short example combining HTMX with [Flask-Sock](https://flask-sock.readthedocs.io/en/latest/) for self-updating webpages with minimal dependencies.
+- [django-tailwind-alpine-htmx](https://github.com/AccordBox/django-tailwind-alpine-htmx) A simple Task app built with Django, Tailwind CSS, Alpine.js and HTMX
 
 
 ### Ruby
