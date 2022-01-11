@@ -26,6 +26,9 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [HackerNews Post](https://news.ycombinator.com/item?id=23330881) - Htmx – high power tools for HTML.
 - [Learning AJAX made easy - Build an app with htmx](https://dev.to/libsyz/learning-ajax-made-easy-build-an-app-with-htmx-gie)
 - [How To Use Htmx in Django](https://www.mattlayman.com/blog/2021/how-to-htmx-django/)
+- [HTMX With ASP.NET Core](https://khalidabuhakmeh.com/htmx-with-aspnet-core)
+- [HTMX Requests with ASP.NET Core Anti-Forgery Tokens](https://khalidabuhakmeh.com/htmx-requests-with-aspnet-core-anti-forgery-tokens)
+- [HTMX and ASP.NET Core Swapping Techniques](https://khalidabuhakmeh.com/htmx-and-aspnet-core-swapping-techniques)
 - [Using HTMX with ASP.NET Core: Introduction](https://www.jerriepelser.com/blog/using-htmx-with-aspnet-core/) - Part of a series of blog posts on using HTMX with ASP.NET
 - [Notes on HTMX](https://blog.ajbothe.com/notes-on-htmx)
 - [Creating a Temperature Converter without a single line of JS](https://dev.to/rajasegar/creating-a-temperature-converter-without-a-single-line-of-js-4cp1)
