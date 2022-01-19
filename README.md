@@ -66,6 +66,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Dynamic Django forms without writing any JavaScript](https://www.youtube.com/watch?v=414ONE1UbCA)
 - [Simple, Fast Frontends With htmx](https://www.youtube.com/watch?v=cBfz4W_KvEI)
 - [Try Django 3.2 - Python Web Development Tutorial Series](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRMby_cSoWTFw8zaMdTEXgL) HTMX-specific content starts at video 65
+- [Spring Boot + HTMX = Easy Full Stack](https://www.youtube.com/watch?v=38WAVRfxPxI)
+- [HAT Stack: HTMX, AlpineJS Tailwind (SeaJUG Front End Java 2021)](https://www.youtube.com/watch?v=aGgWvwb5xUE)
 
 
 ## Examples by Back-end
@@ -99,6 +101,12 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [htmx-tabular](https://github.com/rajasegar/htmx-tabular) - Tabular data with htmx.
 - [htmbox](https://github.com/rajasegar/htmx-dropbox) - A Dropbox clone in htmx. [Live Demo](https://htmbox.herokuapp.com)
 - [htmx-notes](https://github.com/rajasegar/htmx-notes) - A Note-taking app using Markdown inspired by React Server Components demo. [Live Demo](https://htmx-notes.herokuapp.com)
+
+### Java
+- [TodoWebflux Spring Boot HTMX demo](https://github.com/dsyer/todowebflux)
+- [Spring Boot HTMX integration](https://github.com/odrotbohm/spring-playground/tree/main/htmx-spring-boot)
+- [Spring-Boot HTMX](https://github.com/wiverson/htmx-demo)
+- [Frisson: Easy, Powerful Full Stack with Spring Boot and HTMX](https://github.com/ChangeNode/frisson)
 
 
 ### Python-based (Django, FastAPI, Flask)
