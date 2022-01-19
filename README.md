@@ -51,6 +51,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [django-js-lib-htmx](https://github.com/nonZero/django-js-lib-htmx) - Django package containing the htmx scripts.
 - [htmx-rails](https://github.com/rootstrap/htmx-rails) - Rails integration.
 - [htmx.net](https://github.com/khalidabuhakmeh/htmx.net) - ASP.NET Core integration (Htmx Extension Methods, TagHelpers, Htmx.Config)
+- [Giraffe.Htmx](https://github.com/bit-badger/Giraffe.Htmx) - Extensions for Giraffe to support development with htmx.
 
 
 ## Videos
