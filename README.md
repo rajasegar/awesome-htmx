@@ -50,6 +50,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [django-htmx](https://github.com/adamchainz/django-htmx) - Django integration.
 - [django-js-lib-htmx](https://github.com/nonZero/django-js-lib-htmx) - Django package containing the htmx scripts.
 - [htmx-rails](https://github.com/rootstrap/htmx-rails) - Rails integration.
+- [htmx.net](https://github.com/khalidabuhakmeh/htmx.net) - ASP.NET Core integration (Htmx Extension Methods, TagHelpers, Htmx.Config)
 
 
 ## Videos
