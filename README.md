@@ -103,6 +103,10 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [htmx-notes](https://github.com/rajasegar/htmx-notes) - A Note-taking app using Markdown inspired by React Server Components demo. [Live Demo](https://htmx-notes.herokuapp.com)
 
 
+### Go
+- [pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit in Go with HTMX support and examples.
+
+
 ### Java
 - [TodoWebflux Spring Boot HTMX demo](https://github.com/dsyer/todowebflux)
 - [Spring Boot HTMX integration](https://github.com/odrotbohm/spring-playground/tree/main/htmx-spring-boot)
