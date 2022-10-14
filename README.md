@@ -55,19 +55,35 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 
 ## Videos
-- [Active Search UI Pattern with HTMX and FLASK](https://www.youtube.com/watch?v=lfKC5F7qzUQ&ab_channel=LuisCortes)
-- [HTMX for ZERO JavaScript Drop Down Depending on other Drop Down](https://www.youtube.com/watch?v=zYs42XcpHYI&ab_channel=LuisCortes)
-- [Python Bytes 219: HTMX: Dynamic and live HTML without JavaScript - Live Stream](https://www.youtube.com/watch?v=LAdksPSd6ZA)
-- [HTMX/hyperscript demo](https://www.youtube.com/watch?v=MQ0_yh_OhQY)
-- [HTMX/hyperscript demo with Transitions](https://www.youtube.com/watch?v=cubi-UChwh8)
-- [janet/joy/htmx/tailwind | Making a url shortener](https://www.youtube.com/watch?v=KM1ic4k6Has) 
-- [janet/joy/htmx/tailwind | Making a twitter competitor](https://www.youtube.com/watch?v=6eFw3yXasB4)
-- [HTMX - Clean Dynamic HTML Pages Talk Python Live Stream](https://www.youtube.com/watch?v=4wjqsPtj2QY)
-- [Dynamic Django forms without writing any JavaScript](https://www.youtube.com/watch?v=414ONE1UbCA)
-- [Simple, Fast Frontends With htmx](https://www.youtube.com/watch?v=cBfz4W_KvEI)
-- [Try Django 3.2 - Python Web Development Tutorial Series](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRMby_cSoWTFw8zaMdTEXgL) HTMX-specific content starts at video 65
-- [Spring Boot + HTMX = Easy Full Stack](https://www.youtube.com/watch?v=38WAVRfxPxI)
-- [HAT Stack: HTMX, AlpineJS Tailwind (SeaJUG Front End Java 2021)](https://www.youtube.com/watch?v=aGgWvwb5xUE)
+
+
+### Stand-alone
+
+#### 2022
+- 2022-08-01 [Carson Gross — Return To Hypermedia: Solving Javascript Fatigue Using Fundamental Web Architecture](https://www.youtube.com/watch?v=LRrrxQXWdhI)
+- 2022-03-30 [Dynamic Web Pages Without JavaScript? - Intro to HTMX](https://www.youtube.com/watch?v=CWSmP3LSILo)
+#### 2021
+- 2021-10-21 [htmx: Writing JavaScript to Avoid Writing JavaScript, by Carson Gross](https://www.youtube.com/watch?v=u2rjnLJ1M98)
+- 2021-08-25 [Spring Boot + HTMX = Easy Full Stack](https://www.youtube.com/watch?v=38WAVRfxPxI)
+- 2021-07-22 [Simple, Fast Frontends With htmx](https://www.youtube.com/watch?v=cBfz4W_KvEI)
+- 2021-07-04 [Dynamic Django forms without writing any JavaScript](https://www.youtube.com/watch?v=414ONE1UbCA)
+- 2021-06-17 [HAT Stack: HTMX, AlpineJS Tailwind (SeaJUG Front End Java 2021)](https://www.youtube.com/watch?v=aGgWvwb5xUE)
+- 2021-06-10 [HTMX - Clean Dynamic HTML Pages Talk Python Live Stream](https://www.youtube.com/watch?v=4wjqsPtj2QY)
+- 2021-02-03 [Python Bytes 219: HTMX: Dynamic and live HTML without JavaScript - Live Stream](https://www.youtube.com/watch?v=LAdksPSd6ZA)
+#### 2020
+- 2020-06-19 [Active Search UI Pattern with HTMX and FLASK](https://www.youtube.com/watch?v=lfKC5F7qzUQ&ab_channel=LuisCortes)
+- 2020-06-07 [HTMX for ZERO JavaScript Drop Down Depending on other Drop Down](https://www.youtube.com/watch?v=zYs42XcpHYI)
+
+### Series
+
+#### 2021
+- 2021-10-25 [Django and HTMX](https://www.youtube.com/playlist?list=PL-2EBeDYMIbRByZ8GXhcnQSuv2dog4JxY) 25 Videos
+- 2021-08-14 [Try Django 3.2 - Python Web Development Tutorial Series](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRMby_cSoWTFw8zaMdTEXgL) HTMX content starts in video 65
+- 2021-02-19 [HTMX/hyperscript demo](https://www.youtube.com/watch?v=MQ0_yh_OhQY)
+- 2021-02-19 [HTMX/hyperscript demo with Transitions](https://www.youtube.com/watch?v=cubi-UChwh8)
+#### 2020
+- 2020-10-29 [janet/joy/htmx/tailwind | Making a url shortener](https://www.youtube.com/watch?v=KM1ic4k6Has) 
+- 2020-10-29 [janet/joy/htmx/tailwind | Making a twitter competitor](https://www.youtube.com/watch?v=6eFw3yXasB4)
 
 
 ## Examples by Back-end
