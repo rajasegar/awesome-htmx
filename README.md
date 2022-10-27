@@ -60,6 +60,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ### Stand-alone
 
 #### 2022
+- 2022-09-22 [DjangoCon Europe - David Guillot from Contexte - From React to htmx on a real-world SaaS product: we did it, and it's awesome!](https://www.youtube.com/watch?v=3GObi93tjZI)
 - 2022-08-01 [Carson Gross — Return To Hypermedia: Solving Javascript Fatigue Using Fundamental Web Architecture](https://www.youtube.com/watch?v=LRrrxQXWdhI)
 - 2022-03-30 [Dynamic Web Pages Without JavaScript? - Intro to HTMX](https://www.youtube.com/watch?v=CWSmP3LSILo)
 #### 2021
