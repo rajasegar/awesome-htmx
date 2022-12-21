@@ -42,6 +42,10 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Ajax-Enabled Checkbox and Select with Django and HTMX](https://jacklinke.com/ajax-enabled-checkbox-and-select-with-django-and-htmx)
 - [Django Formsets Tutorial - Build dynamic forms with Htmx](https://justdjango.com/blog/dynamic-forms-in-django-htmx)
 - [Django, HTMX and Alpine.JS: A Match Made In Heaven](https://dev.to/nicholas_moen/what-i-learned-while-using-django-with-htmx-and-alpine-js-24jg)
+- [TodoMVC with Thymeleaf and HTMX](https://www.wimdeblauwe.com/blog/2021/10/04/todomvc-with-thymeleaf-and-htmx/)
+- [Using Server-Sent Events with Thymeleaf and HTMX](https://www.wimdeblauwe.com/blog/2021/11/23/using-server-sent-events-with-thymeleaf-and-htmx/)
+- [Thymeleaf and htmx with out of band swaps](https://www.wimdeblauwe.com/blog/2022/06/15/thymeleaf-and-htmx-with-out-of-band-swaps/)
+- [Htmx authentication error handling](https://www.wimdeblauwe.com/blog/2022/10/04/htmx-authentication-error-handling/)
 
 
 ## Tools
@@ -52,6 +56,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [htmx-rails](https://github.com/rootstrap/htmx-rails) - Rails integration.
 - [htmx.net](https://github.com/khalidabuhakmeh/htmx.net) - ASP.NET Core integration (Htmx Extension Methods, TagHelpers, Htmx.Config)
 - [Giraffe.Htmx](https://github.com/bit-badger/Giraffe.Htmx) - Extensions for Giraffe to support development with htmx.
+- [htmx-spring-boot-thymeleaf](https://github.com/wimdeblauwe/htmx-spring-boot-thymeleaf)
 
 
 ## Videos
@@ -60,6 +65,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ### Stand-alone
 
 #### 2022
+- 2022-10-14 [Modern frontends with Thymeleaf and htmx by Wim Deblauwe](https://www.youtube.com/watch?v=POK4Zp1oRN8)
 - 2022-09-22 [DjangoCon Europe - David Guillot from Contexte - From React to htmx on a real-world SaaS product: we did it, and it's awesome!](https://www.youtube.com/watch?v=3GObi93tjZI)
 - 2022-08-01 [Carson Gross — Return To Hypermedia: Solving Javascript Fatigue Using Fundamental Web Architecture](https://www.youtube.com/watch?v=LRrrxQXWdhI)
 - 2022-03-30 [Dynamic Web Pages Without JavaScript? - Intro to HTMX](https://www.youtube.com/watch?v=CWSmP3LSILo)
