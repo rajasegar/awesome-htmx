@@ -52,6 +52,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [htmx-rails](https://github.com/rootstrap/htmx-rails) - Rails integration.
 - [htmx.net](https://github.com/khalidabuhakmeh/htmx.net) - ASP.NET Core integration (Htmx Extension Methods, TagHelpers, Htmx.Config)
 - [Giraffe.Htmx](https://github.com/bit-badger/Giraffe.Htmx) - Extensions for Giraffe to support development with htmx.
+- [IntelliJ htmx plugin](https://plugins.jetbrains.com/plugin/20588-htmx-support)
 
 
 ## Videos
