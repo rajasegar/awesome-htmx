@@ -58,6 +58,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Giraffe.Htmx](https://github.com/bit-badger/Giraffe.Htmx) - Extensions for Giraffe to support development with htmx.
 - [htmx-spring-boot-thymeleaf](https://github.com/wimdeblauwe/htmx-spring-boot-thymeleaf)
 - [IntelliJ htmx plugin](https://plugins.jetbrains.com/plugin/20588-htmx-support)
+- [codeigniter-htmx](https://github.com/michalsn/codeigniter-htmx) - CodeIgniter 4 framework integration.
 
 
 ## Videos
