@@ -130,6 +130,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Go
 - [pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit in Go with HTMX support and examples.
+- [Pushup](https://github.com/adhocteam/pushup) - A server-side, page-oriented web framework for the Go programming language.
 
 
 ### Java
