@@ -59,7 +59,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [htmx-spring-boot-thymeleaf](https://github.com/wimdeblauwe/htmx-spring-boot-thymeleaf)
 - [IntelliJ htmx plugin](https://plugins.jetbrains.com/plugin/20588-htmx-support)
 - [codeigniter-htmx](https://github.com/michalsn/codeigniter-htmx) - CodeIgniter 4 framework integration.
-
+- [htmx-ext-shoelace](https://github.com/benopotamus/htmx-ext-shoelace) - An extension to make Shoelace elements work seamlessly  with HTMX.
 
 ## Videos
 
