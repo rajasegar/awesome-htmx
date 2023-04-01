@@ -47,8 +47,12 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Thymeleaf and htmx with out of band swaps](https://www.wimdeblauwe.com/blog/2022/06/15/thymeleaf-and-htmx-with-out-of-band-swaps/)
 - [Htmx authentication error handling](https://www.wimdeblauwe.com/blog/2022/10/04/htmx-authentication-error-handling/)
 
-
 ## Tools
+- [moappi/json2html](https://github.com/moappi/json2html): json2html and htmx. for example: ```javascript
+// webapp with json2html, htmx
+const button = {'<>':'button', 'class':'button', 'hx-get':'https://pokeapi.co/api/v2/pokemon/ditto',' hx-swap':'outerHTML', text:'Click Me'};
+document.write(json2html.render({},button));
+```
 - [craft-htmx](https://github.com/putyourlightson/craft-htmx) - Craft CMS plugin.
 - [ctmx](https://whamtet.github.io/ctmx/) - Clojure integration.
 - [django-htmx](https://github.com/adamchainz/django-htmx) - Django integration.
