@@ -46,6 +46,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Using Server-Sent Events with Thymeleaf and HTMX](https://www.wimdeblauwe.com/blog/2021/11/23/using-server-sent-events-with-thymeleaf-and-htmx/)
 - [Thymeleaf and htmx with out of band swaps](https://www.wimdeblauwe.com/blog/2022/06/15/thymeleaf-and-htmx-with-out-of-band-swaps/)
 - [Htmx authentication error handling](https://www.wimdeblauwe.com/blog/2022/10/04/htmx-authentication-error-handling/)
+- [Moappi/json2html and htmx](https://github.com/rajasegar/awesome-htmx/pull/41)
 
 ## Tools
 - [craft-htmx](https://github.com/putyourlightson/craft-htmx) - Craft CMS plugin.
@@ -59,12 +60,6 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [IntelliJ htmx plugin](https://plugins.jetbrains.com/plugin/20588-htmx-support)
 - [codeigniter-htmx](https://github.com/michalsn/codeigniter-htmx) - CodeIgniter 4 framework integration.
 - [htmx-ext-shoelace](https://github.com/benopotamus/htmx-ext-shoelace) - An extension to make Shoelace elements work seamlessly  with HTMX.
-- [moappi/json2html](https://github.com/moappi/json2html): json2html and htmx. for example: 
-```javascript
-// webapp with json2html, htmx
-const button = {'<>':'button', 'class':'button', 'hx-get':'https://pokeapi.co/api/v2/pokemon/ditto',' hx-swap':'outerHTML', text:'Click Me'};
-document.write(json2html.render({},button));
-```
 
 ## Videos
 
