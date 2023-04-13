@@ -46,7 +46,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Using Server-Sent Events with Thymeleaf and HTMX](https://www.wimdeblauwe.com/blog/2021/11/23/using-server-sent-events-with-thymeleaf-and-htmx/)
 - [Thymeleaf and htmx with out of band swaps](https://www.wimdeblauwe.com/blog/2022/06/15/thymeleaf-and-htmx-with-out-of-band-swaps/)
 - [Htmx authentication error handling](https://www.wimdeblauwe.com/blog/2022/10/04/htmx-authentication-error-handling/)
-
+- [json2html](https://github.com/moappi/json2html)
 
 ## Tools
 - [craft-htmx](https://github.com/putyourlightson/craft-htmx) - Craft CMS plugin.
