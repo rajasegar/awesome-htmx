@@ -142,6 +142,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 
 ### Python-based (Django, FastAPI, Flask)
+- [awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx) - Awesome list for htmx specific to the Python ecosystem.
 - [Flask HTMLX Material Kit](https://github.com/app-generator/sample-flask-htmlx-mkit) - Simple starter powered by `Flask`, `HTMLX` and `Bootstrap 5`
 - [Django HTMLX Material Kit](https://github.com/app-generator/sample-django-htmlx-mkit) - Simple starter powered by `Django`, `HTMLX` and `Bootstrap 5`
 - [flask-htmx-boilerplate](https://github.com/marcusschiesser/flask-htmx-boilerplate) - Boilerplate template for a Python Flask application with HTMX and Tailwind CSS
