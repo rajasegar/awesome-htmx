@@ -168,6 +168,10 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [htmx-todo-app](https://github.com/libsyz/htmx-to-do-app) - A little to-do app and a short demo of htmx built with Sinatra.
 
 
+### PHP
+- [codeigniter-htmx-demo](https://github.com/michalsn/codeigniter-htmx-demo) - A CodeIgniter 4 examples include inline and modal edits, events, searching, pagination, and sorting.
+
+
 ### Other
 - [declswiplweb](https://github.com/Anniepoo/declswiplweb) - End to end declarative web programming with no JS using htmx and SWI-Prolog.
 - [htmx-modal-example](https://github.com/benpate/htmx-modal-example) - An experiment to work design modal dialogs in HTMX.
