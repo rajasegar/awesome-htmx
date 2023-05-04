@@ -29,7 +29,6 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [HTMX With ASP.NET Core](https://khalidabuhakmeh.com/htmx-with-aspnet-core)
 - [HTMX Requests with ASP.NET Core Anti-Forgery Tokens](https://khalidabuhakmeh.com/htmx-requests-with-aspnet-core-anti-forgery-tokens)
 - [HTMX and ASP.NET Core Swapping Techniques](https://khalidabuhakmeh.com/htmx-and-aspnet-core-swapping-techniques)
-- [Using HTMX with ASP.NET Core: Introduction](https://www.jerriepelser.com/blog/using-htmx-with-aspnet-core/) - Part of a series of blog posts on using HTMX with ASP.NET
 - [Notes on HTMX](https://blog.ajbothe.com/notes-on-htmx)
 - [Creating a Temperature Converter without a single line of JS](https://dev.to/rajasegar/creating-a-temperature-converter-without-a-single-line-of-js-4cp1)
 - [Creating a Counter component without a single line of JS](https://dev.to/rajasegar/creating-a-counter-component-without-a-single-line-of-js-42d5)
@@ -104,7 +103,6 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 
 ### Clojure
-- [lagosta](https://github.com/jcpsantiago/lagosta) - Anti-fraud workflow automation using Clojure and HTMX.
 - [babashka-htmx-todoapp](https://github.com/prestancedesign/babashka-htmx-todoapp) - Quick example of a todo list application using Babashka and htmx.
 
 
@@ -115,7 +113,6 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 
 ### Express
-- [express-ejs-htmx-playground](https://github.com/TomekKosakowski/express-ejs-htmx-playground) - Check and test how express works with EJS templates and htmx.
 - [Geo Selector in htmx](https://github.com/rajasegar/htmx-geo-selector) - A Region, Sub-Region and Country selector based on user selections.
 - [todomvc-htmx](https://github.com/rajasegar/todomvc-htmx) - TodoMVC app implemented using htmx and hyperscript.
 - [hx-swap-demo](https://github.com/rajasegar/hx-swap-demo) - A demo app to showcase different attribute values of hx-swap in htmx.
