@@ -49,7 +49,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [json2html](https://github.com/moappi/json2html)
 
 ## Tools
-- [Sprig](https://github.com/putyourlightson/craft-sprig) - Craft CMS plugin.
+- [Sprig](https://putyourlightson.com/plugins/sprig) - Craft CMS plugin.
 - [ctmx](https://whamtet.github.io/ctmx/) - Clojure integration.
 - [django-htmx](https://github.com/adamchainz/django-htmx) - Django integration.
 - [django-js-lib-htmx](https://github.com/nonZero/django-js-lib-htmx) - Django package containing the htmx scripts.
