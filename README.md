@@ -66,6 +66,9 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Stand-alone
 
+#### 2023
+- 2023-05-24 [Rapid server side full stack web development with ViewComponents and htmx by Thomas Schuely](https://youtu.be/DPAtQU-erM4)
+
 #### 2022
 - 2022-10-14 [Modern frontends with Thymeleaf and htmx by Wim Deblauwe](https://www.youtube.com/watch?v=POK4Zp1oRN8)
 - 2022-09-22 [DjangoCon Europe - David Guillot from Contexte - From React to htmx on a real-world SaaS product: we did it, and it's awesome!](https://www.youtube.com/watch?v=3GObi93tjZI)
