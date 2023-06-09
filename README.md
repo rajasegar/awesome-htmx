@@ -109,6 +109,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ### Clojure
 - [lagosta](https://github.com/jcpsantiago/lagosta) - Anti-fraud workflow automation using Clojure and HTMX.
 - [babashka-htmx-todoapp](https://github.com/prestancedesign/babashka-htmx-todoapp) - Quick example of a todo list application using Babashka and htmx.
+- [panas.example](https://github.com/keychera/panas.example) - Implementation of all [htmx examples](https://htmx.org/examples/) using Babashka.
 
 
 ### Common Lisp
