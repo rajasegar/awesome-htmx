@@ -47,6 +47,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Thymeleaf and htmx with out of band swaps](https://www.wimdeblauwe.com/blog/2022/06/15/thymeleaf-and-htmx-with-out-of-band-swaps/)
 - [Htmx authentication error handling](https://www.wimdeblauwe.com/blog/2022/10/04/htmx-authentication-error-handling/)
 - [json2html](https://github.com/moappi/json2html)
+- [Full stack web development in a single Java file: An intro to Javalin and htmx](https://anthonybruno.dev/2023/06/11/full-stack-development-in-a-single-java-file)
 
 ## Tools
 - [Sprig](https://putyourlightson.com/plugins/sprig) - Craft CMS plugin.
@@ -131,6 +132,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Spring Boot HTMX integration](https://github.com/odrotbohm/spring-playground/tree/main/htmx-spring-boot)
 - [Spring-Boot HTMX](https://github.com/wiverson/htmx-demo)
 - [Frisson: Easy, Powerful Full Stack with Spring Boot and HTMX](https://github.com/ChangeNode/frisson)
+- [java-htmx-todo](https://github.com/AussieGuy0/java-htmx-todo) - Todo app using Javalin, htmx and j2html.
 
 
 ## Kotlin
