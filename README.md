@@ -132,7 +132,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Spring Boot HTMX integration](https://github.com/odrotbohm/spring-playground/tree/main/htmx-spring-boot)
 - [Spring-Boot HTMX](https://github.com/wiverson/htmx-demo)
 - [Frisson: Easy, Powerful Full Stack with Spring Boot and HTMX](https://github.com/ChangeNode/frisson)
-- [java-htmx-todo][https://github.com/AussieGuy0/java-htmx-todo] - Todo app using Javalin, htmx and j2html.
+- [java-htmx-todo](https://github.com/AussieGuy0/java-htmx-todo) - Todo app using Javalin, htmx and j2html.
 
 
 ## Kotlin
