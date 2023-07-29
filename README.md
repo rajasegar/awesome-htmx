@@ -135,7 +135,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [java-htmx-todo](https://github.com/AussieGuy0/java-htmx-todo) - Todo app using Javalin, htmx and j2html.
 
 
-## Kotlin
+### Kotlin
 - [todo-hda-kt](https://github.com/corlaez/todo-hda-kt) - TodoApp as a Hypermedia Driven App with parallel browser tests
 
 
