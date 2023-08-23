@@ -138,6 +138,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Kotlin
 - [todo-hda-kt](https://github.com/corlaez/todo-hda-kt) - TodoApp as a Hypermedia Driven App with parallel browser tests
+- [htmx-ktor](https://github.com/Rattlyy/htmx-ktor) - Fullstack CRUD app example made with Ktor (Backend), kotlin.html (Templates), SimpleCSS (Styling), PostgreSQL (DB), Docker (Deployment)
 
 
 ### Python-based (Django, FastAPI, Flask)
