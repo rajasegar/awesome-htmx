@@ -62,6 +62,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [IntelliJ htmx plugin](https://plugins.jetbrains.com/plugin/20588-htmx-support)
 - [codeigniter-htmx](https://github.com/michalsn/codeigniter-htmx) - CodeIgniter 4 framework integration.
 - [htmx-ext-shoelace](https://github.com/benopotamus/htmx-ext-shoelace) - An extension to make Shoelace elements work seamlessly  with HTMX.
+- [laravel-htmx](https://github.com/mauricius/laravel-htmx) - Laravel integration for htmx.
 
 ## Videos
 - [htmx in 100 seconds](https://www.youtube.com/watch?v=r-GSGH2RxJs)
@@ -170,6 +171,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### PHP
 - [codeigniter-htmx-demo](https://github.com/michalsn/codeigniter-htmx-demo) - A CodeIgniter 4 examples include inline and modal edits, events, searching, pagination, and sorting.
+- [laravel-htmx-todolist](https://github.com/gabrielrbarbosa/laravel-htmx-todolist) - Laravel Todo List app demo for laravel-htmx
 
 
 ### Other
