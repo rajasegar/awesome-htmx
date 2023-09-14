@@ -49,6 +49,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Htmx authentication error handling](https://www.wimdeblauwe.com/blog/2022/10/04/htmx-authentication-error-handling/)
 - [json2html](https://github.com/moappi/json2html)
 - [Full stack web development in a single Java file: An intro to Javalin and htmx](https://anthonybruno.dev/2023/06/11/full-stack-development-in-a-single-java-file)
+- [Hono + htmx + Cloudflare is a new stack](https://blog.yusu.ke/hono-htmx-cloudflare/)
 
 ## Tools
 - [Sprig](https://putyourlightson.com/plugins/sprig) - Craft CMS plugin.
@@ -108,6 +109,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [cl-trello-clone](https://github.com/rajasegar/cl-trello-clone) - A small Trello clone built in Common Lisp
 - [cl-github-timeline](https://github.com/rajasegar/cl-github-timeline) Github timeline in Common Lisp, and [another example based on this one](https://github.com/vlcinsky/python-fastapi-github-timeline) using FastAPI.
 
+### JavaScript
+- [Example todo app with the html.js framework](https://github.com/dctanner/htmljs-todo-example) - html.js is an elegent framework for hyper speed web apps.
 
 ### Express
 - [express-ejs-htmx-playground](https://github.com/TomekKosakowski/express-ejs-htmx-playground) - Check and test how express works with EJS templates and htmx.
