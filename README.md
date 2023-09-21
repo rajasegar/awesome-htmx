@@ -65,6 +65,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [codeigniter-htmx](https://github.com/michalsn/codeigniter-htmx) - CodeIgniter 4 framework integration.
 - [htmx-ext-shoelace](https://github.com/benopotamus/htmx-ext-shoelace) - An extension to make Shoelace elements work seamlessly  with HTMX.
 - [laravel-htmx](https://github.com/mauricius/laravel-htmx) - Laravel integration for htmx.
+- [Hwy](https://hwy.dev) - Remix-inspired TypeScript metaframework using HTMX instead of React.
 
 ## Videos
 - [htmx in 100 seconds](https://www.youtube.com/watch?v=r-GSGH2RxJs)
