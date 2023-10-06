@@ -60,7 +60,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [htmx-rails](https://github.com/rootstrap/htmx-rails) - Rails integration.
 - [htmx.net](https://github.com/khalidabuhakmeh/htmx.net) - ASP.NET Core integration (Htmx Extension Methods, TagHelpers, Htmx.Config)
 - [Giraffe.Htmx](https://github.com/bit-badger/Giraffe.Htmx) - Extensions for Giraffe to support development with htmx.
-- [htmx-spring-boot-thymeleaf](https://github.com/wimdeblauwe/htmx-spring-boot-thymeleaf)
+- [htmx-spring-boot](https://github.com/wimdeblauwe/htmx-spring-boot) - Spring Boot support library for htmx
 - [IntelliJ htmx plugin](https://plugins.jetbrains.com/plugin/20588-htmx-support)
 - [codeigniter-htmx](https://github.com/michalsn/codeigniter-htmx) - CodeIgniter 4 framework integration.
 - [htmx-ext-shoelace](https://github.com/benopotamus/htmx-ext-shoelace) - An extension to make Shoelace elements work seamlessly  with HTMX.
