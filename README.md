@@ -66,6 +66,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [htmx-ext-shoelace](https://github.com/benopotamus/htmx-ext-shoelace) - An extension to make Shoelace elements work seamlessly  with HTMX.
 - [laravel-htmx](https://github.com/mauricius/laravel-htmx) - Laravel integration for htmx.
 - [Hwy](https://hwy.dev) - Remix-inspired TypeScript metaframework using HTMX instead of React.
+- [DelphiMVCFramework](https://github.com/danieleteti/delphimvcframework) - DelphiMVCFramework integration support for htmx (class helper in MVCFramework.HTMX)
 
 ## Videos
 - [htmx in 100 seconds](https://www.youtube.com/watch?v=r-GSGH2RxJs)
@@ -178,6 +179,9 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [codeigniter-htmx-demo](https://github.com/michalsn/codeigniter-htmx-demo) - A CodeIgniter 4 examples include inline and modal edits, events, searching, pagination, and sorting.
 - [laravel-htmx-todolist](https://github.com/gabrielrbarbosa/laravel-htmx-todolist) - Laravel Todo List app demo for laravel-htmx
 - [laravel-htmx-crud](https://github.com/hmshafeeq/larvel-htmx-crud) Classic contacs crud made reactive with HTMX
+
+### Delphi
+- [dmvcframework-todo-app](https://github.com/danieleteti/delphi-dmvcframework-htmx-todo) - DelphiMVCFramework to-do app with HTMX and mustache templates
 
 ### Other
 - [declswiplweb](https://github.com/Anniepoo/declswiplweb) - End to end declarative web programming with no JS using htmx and SWI-Prolog.
