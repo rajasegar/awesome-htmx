@@ -24,6 +24,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## BlogPosts
 - [HackerNews Post](https://news.ycombinator.com/item?id=23330881) - Htmx – high power tools for HTML.
+- [Full Stack Application – HTMX + ExpressJS + Turso: A Step-by-Step Guide](https://www.fun4code.com/htmx-expressjs-a-step-by-step-guide/)
 - [How to create a Django form (using HTMX) in 90 seconds 🐎](https://www.photondesigner.com/articles/submit-async-django-form-with-htmx)
 - [Learning AJAX made easy - Build an app with htmx](https://dev.to/libsyz/learning-ajax-made-easy-build-an-app-with-htmx-gie)
 - [How To Use Htmx in Django](https://www.mattlayman.com/blog/2021/how-to-htmx-django/)
