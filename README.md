@@ -57,6 +57,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Full stack web development in a single Java file: An intro to Javalin and htmx](https://anthonybruno.dev/2023/06/11/full-stack-development-in-a-single-java-file)
 - [Hono + htmx + Cloudflare is a new stack](https://blog.yusu.ke/hono-htmx-cloudflare/)
 - [Getting Started With HTMX In Laravel](https://muhammadshafeeq.com/posts/getting-started-with-htmx-in-laravel---an-overview/)
+- [Table Sorting and Pagination with HTMX in Laravel](https://muhammadshafeeq.com/posts/table-sorting-and-pagination-with-htmx-in-laravel/) 
 
 ## Tools
 - [Sprig](https://putyourlightson.com/plugins/sprig) - Craft CMS plugin.
@@ -184,7 +185,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ### PHP
 - [codeigniter-htmx-demo](https://github.com/michalsn/codeigniter-htmx-demo) - A CodeIgniter 4 examples include inline and modal edits, events, searching, pagination, and sorting.
 - [laravel-htmx-todolist](https://github.com/gabrielrbarbosa/laravel-htmx-todolist) - Laravel Todo List app demo for laravel-htmx
-- [laravel-htmx-crud](https://github.com/hmshafeeq/larvel-htmx-crud) Classic contacs crud made reactive with HTMX
+- [laravel-htmx-crud](https://github.com/hmshafeeq/larvel-htmx-crud) Laravel contacts CRUD app, made reactive with HTMX.
 
 ### Delphi
 - [dmvcframework-todo-app](https://github.com/danieleteti/delphi-dmvcframework-htmx-todo) - DelphiMVCFramework to-do app with HTMX and mustache templates
