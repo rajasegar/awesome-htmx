@@ -1,10 +1,11 @@
 # Awesome Htmx [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
-An awesome list of resources about **htmx**  such as articles, posts, videos, talks and more.
+An awesome list of resources about **htmx** such as articles, posts, videos, talks and more.
 
 Hoping to keep this list updated as much as possible, any new links through PRs are appreciated.
 
 ## Contents
+
 - [Official](#official)
 - [BlogPosts](#blogposts)
 - [Tools](#tools)
@@ -12,8 +13,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Examples](#examples-by-back-end)
 - [Podcasts](#podcasts)
 
-
 ## Official
+
 - [Website](https://htmx.org)
 - [GitHub](https://github.com/bigskysoftware/htmx)
 - [Twitter](https://twitter.com/htmx_org?lang=en)
@@ -21,8 +22,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Examples](https://htmx.org/examples/)
 - [htmx on Stack Overflow](https://stackoverflow.com/questions/tagged/htmx)
 
-
 ## BlogPosts
+
 - [How to create ChatGPT with Django and HTMX in 4 minutes 🦾](https://www.photondesigner.com/articles/chatgpt-htmx-django)
 - [Add instant database search with Django and HTMX 🕵️](https://www.photondesigner.com/articles/database-search-django-htmx)
 - [How to add serverless functions to Django in 6 minutes (with HTMX and AWS Lambda) 🧠](https://www.photondesigner.com/articles/serverless-functions-django)
@@ -57,9 +58,11 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Full stack web development in a single Java file: An intro to Javalin and htmx](https://anthonybruno.dev/2023/06/11/full-stack-development-in-a-single-java-file)
 - [Hono + htmx + Cloudflare is a new stack](https://blog.yusu.ke/hono-htmx-cloudflare/)
 - [Getting Started With HTMX In Laravel](https://muhammadshafeeq.com/posts/getting-started-with-htmx-in-laravel---an-overview/)
-- [Table Sorting and Pagination with HTMX in Laravel](https://muhammadshafeeq.com/posts/table-sorting-and-pagination-with-htmx-in-laravel/) 
+- [Table Sorting and Pagination with HTMX in Laravel](https://muhammadshafeeq.com/posts/table-sorting-and-pagination-with-htmx-in-laravel/)
+- [Building a Counter App with `htmx`, `Go Fiber`, and `elem-go`](https://dev.to/chasefleming/building-a-counter-app-with-htmx-go-fiber-and-elem-go-9jd)
 
 ## Tools
+
 - [Sprig](https://putyourlightson.com/plugins/sprig) - Craft CMS plugin.
 - [ctmx](https://whamtet.github.io/ctmx/) - Clojure integration.
 - [django-htmx](https://github.com/adamchainz/django-htmx) - Django integration.
@@ -70,12 +73,14 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [htmx-spring-boot](https://github.com/wimdeblauwe/htmx-spring-boot) - Spring Boot support library for htmx
 - [IntelliJ htmx plugin](https://plugins.jetbrains.com/plugin/20588-htmx-support)
 - [codeigniter-htmx](https://github.com/michalsn/codeigniter-htmx) - CodeIgniter 4 framework integration.
-- [htmx-ext-shoelace](https://github.com/benopotamus/htmx-ext-shoelace) - An extension to make Shoelace elements work seamlessly  with HTMX.
+- [htmx-ext-shoelace](https://github.com/benopotamus/htmx-ext-shoelace) - An extension to make Shoelace elements work seamlessly with HTMX.
 - [laravel-htmx](https://github.com/mauricius/laravel-htmx) - Laravel integration for htmx.
 - [Hwy](https://hwy.dev) - Remix-inspired TypeScript metaframework using HTMX instead of React.
 - [DelphiMVCFramework](https://github.com/danieleteti/delphimvcframework) - DelphiMVCFramework integration support for htmx (class helper in MVCFramework.HTMX)
+- [elem-go](https://github.com/chasefleming/elem-go) - A Go library for building HTML with htmx.
 
 ## Videos
+
 - [htmx in 100 seconds](https://www.youtube.com/watch?v=r-GSGH2RxJs)
 - [Why learn htmx?](https://www.youtube.com/watch?v=AOzy44b2gko)
 - [Rapid server side full stack web development with ViewComponents and htmx by Thomas Schuely](https://youtu.be/DPAtQU-erM4)
@@ -96,33 +101,34 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Try Django 3.2 - Python Web Development Tutorial Series](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRMby_cSoWTFw8zaMdTEXgL) HTMX content starts in video 65
 - [HTMX/hyperscript demo](https://www.youtube.com/watch?v=MQ0_yh_OhQY)
 - [HTMX/hyperscript demo with Transitions](https://www.youtube.com/watch?v=cubi-UChwh8)
-- [janet/joy/htmx/tailwind | Making a url shortener](https://www.youtube.com/watch?v=KM1ic4k6Has) 
+- [janet/joy/htmx/tailwind | Making a url shortener](https://www.youtube.com/watch?v=KM1ic4k6Has)
 - [janet/joy/htmx/tailwind | Making a twitter competitor](https://www.youtube.com/watch?v=6eFw3yXasB4)
-
 
 ## Examples by Back-end
 
-
 ### ASP.net
+
 - [htmx-with-aspnet-core](https://github.com/jerriepelser-blog/htmx-with-aspnet-core) - Htmx with asp.net core.
 - [aspnet-core-htmx-example](https://github.com/mryderie/aspnet-core-htmx-example) - Demonstrates the use of htmx with ASP.NET Core Razor Pages to create a simple CRUD web application.
 
-
 ### Clojure
+
 - [lagosta](https://github.com/jcpsantiago/lagosta) - Anti-fraud workflow automation using Clojure and HTMX.
 - [babashka-htmx-todoapp](https://github.com/prestancedesign/babashka-htmx-todoapp) - Quick example of a todo list application using Babashka and htmx.
 - [panas.example](https://github.com/keychera/panas.example) - Implementation of all [htmx examples](https://htmx.org/examples/) using Babashka.
 
-
 ### Common Lisp
+
 - [ccl-demo-raja](https://github.com/rajasegar/ccl-demo-raja) - A Common Lisp demo with htmx using Star wars API.
 - [cl-trello-clone](https://github.com/rajasegar/cl-trello-clone) - A small Trello clone built in Common Lisp
 - [cl-github-timeline](https://github.com/rajasegar/cl-github-timeline) Github timeline in Common Lisp, and [another example based on this one](https://github.com/vlcinsky/python-fastapi-github-timeline) using FastAPI.
 
 ### JavaScript
+
 - [Example todo app with the html.js framework](https://github.com/dctanner/htmljs-todo-example) - html.js is an elegent framework for hyper speed web apps.
 
 ### Express
+
 - [express-ejs-htmx-playground](https://github.com/TomekKosakowski/express-ejs-htmx-playground) - Check and test how express works with EJS templates and htmx.
 - [Geo Selector in htmx](https://github.com/rajasegar/htmx-geo-selector) - A Region, Sub-Region and Country selector based on user selections.
 - [todomvc-htmx](https://github.com/rajasegar/todomvc-htmx) - TodoMVC app implemented using htmx and hyperscript.
@@ -136,26 +142,28 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [htmbox](https://github.com/rajasegar/htmx-dropbox) - A Dropbox clone in htmx. [Live Demo](https://htmbox.herokuapp.com)
 - [htmx-notes](https://github.com/rajasegar/htmx-notes) - A Note-taking app using Markdown inspired by React Server Components demo. [Live Demo](https://htmx-notes.herokuapp.com)
 
-
 ### Go
+
 - [pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit in Go with HTMX support and examples.
 - [Pushup](https://github.com/adhocteam/pushup) - A server-side, page-oriented web framework for the Go programming language.
-
+- [Simple Counter App](https://github.com/chasefleming/elem-go/tree/main/examples/htmx-fiber-counter) - A simple counter app built with `htmx`, `elem-go`, and `Go Fiber`.
+- [Todo App](https://github.com/chasefleming/elem-go/tree/main/examples/htmx-fiber-todo) - A todo app built with `htmx`, `elem-go`, and `Go Fiber`.
 
 ### Java
+
 - [TodoWebflux Spring Boot HTMX demo](https://github.com/dsyer/todowebflux)
 - [Spring Boot HTMX integration](https://github.com/odrotbohm/spring-playground/tree/main/htmx-spring-boot)
 - [Spring-Boot HTMX](https://github.com/wiverson/htmx-demo)
 - [Frisson: Easy, Powerful Full Stack with Spring Boot and HTMX](https://github.com/ChangeNode/frisson)
 - [java-htmx-todo](https://github.com/AussieGuy0/java-htmx-todo) - Todo app using Javalin, htmx and j2html.
 
-
 ### Kotlin
+
 - [todo-hda-kt](https://github.com/corlaez/todo-hda-kt) - TodoApp as a Hypermedia Driven App with parallel browser tests
 - [htmx-ktor](https://github.com/Rattlyy/htmx-ktor) - Fullstack CRUD app example made with Ktor (Backend), kotlin.html (Templates), SimpleCSS (Styling), PostgreSQL (DB), Docker (Deployment)
 
-
 ### Python-based (Django, FastAPI, Flask)
+
 - [awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx) - Awesome list for htmx specific to the Python ecosystem.
 - [Flask HTMLX Material Kit](https://github.com/app-generator/sample-flask-htmlx-mkit) - Simple starter powered by `Flask`, `HTMLX` and `Bootstrap 5`
 - [Django HTMLX Material Kit](https://github.com/app-generator/sample-django-htmlx-mkit) - Simple starter powered by `Django`, `HTMLX` and `Bootstrap 5`
@@ -164,7 +172,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [django-htmx-fun](https://github.com/guettli/django-htmx-fun) - A small Django application to advertise the fun htmx can bring you.
 - [django-htmx-todo](https://github.com/jaredlockhart/django-htmx-todo)
 - [django-htmx-todo-list](https://github.com/OmenApps/django-htmx-todo-list) - Expands on django-htmx-todo to add task creation, editing, and deletion using FBVs.
-- [owela-club](https://github.com/adamchainz/owela-club) - Play the Namibian game of Owela against a terrible AI. Built using Django and htmx. 
+- [owela-club](https://github.com/adamchainz/owela-club) - Play the Namibian game of Owela against a terrible AI. Built using Django and htmx.
 - [django-htmx-alpine](https://github.com/arcanemachine/django-htmx-alpine/) - Basic todo list with Django, HTMX, and Alpine. Features a [live demonstration](https://django-htmx-alpine.nicholasmoen.com/).
 - [dj_pug_htmx_example](https://github.com/katsko/dj_pug_htmx_example) - HTMX, Pug, and Django experiments
 - [Lexicon App](https://github.com/jgirardet/djlexique) - Lexicon app using django3.2, htmx, hyperscript.
@@ -175,28 +183,30 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [django-tailwind-alpine-htmx](https://github.com/AccordBox/django-tailwind-alpine-htmx) A simple Task app built with Django, Tailwind CSS, Alpine.js and HTMX
 - [flask-htmx-tailwind](https://github.com/testdrivenio/flask-htmx-tailwind) - Rapid Prototyping with Flask, htmx, and Tailwind CSS
 
-
 ### Ruby
+
 - [sinatara-htmx](https://github.com/johnthethird/sinatra-htmx) - Example of a Sinatra app using HTMX for implementing an interactive search
 - [pokebutt-htmx](https://github.com/beechnut/pokebutt-htmx) - Pokebutt clone using htmx.
 - [htmx-todo-app](https://github.com/libsyz/htmx-to-do-app) - A little to-do app and a short demo of htmx built with Sinatra.
 
-
 ### PHP
+
 - [codeigniter-htmx-demo](https://github.com/michalsn/codeigniter-htmx-demo) - A CodeIgniter 4 examples include inline and modal edits, events, searching, pagination, and sorting.
 - [laravel-htmx-todolist](https://github.com/gabrielrbarbosa/laravel-htmx-todolist) - Laravel Todo List app demo for laravel-htmx
 - [laravel-htmx-crud](https://github.com/hmshafeeq/larvel-htmx-crud) Laravel contacts CRUD app, made reactive with HTMX.
 
 ### Delphi
+
 - [dmvcframework-todo-app](https://github.com/danieleteti/delphi-dmvcframework-htmx-todo) - DelphiMVCFramework to-do app with HTMX and mustache templates
 
 ### Other
+
 - [declswiplweb](https://github.com/Anniepoo/declswiplweb) - End to end declarative web programming with no JS using htmx and SWI-Prolog.
 - [htmx-modal-example](https://github.com/benpate/htmx-modal-example) - An experiment to work design modal dialogs in HTMX.
 - [quarkus-htmx-todos](https://github.com/derkoe/quarkus-htmx-todos) - Todo App in Quarkus with htmx.
 
-
 ## Podcasts
+
 - [Python Bytes: HTMX - Dynamic and live HTML without JavaScript](https://pythonbytes.fm/episodes/show/219/htmx-dynamic-and-live-html-without-javascript) - Podcast about HTMX in the Python news.
 - [Talk Python: HTMX - Clean, Dynamic HTML Pages](https://talkpython.fm/episodes/show/321/htmx-clean-dynamic-html-pages)
 - [Dynamic HTML with htmx](https://devmode.fm/episodes/dynamic-html-with-htmx) - Devmode.fm episode about htmx.
