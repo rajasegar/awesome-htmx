@@ -37,7 +37,6 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [HTMX With ASP.NET Core](https://khalidabuhakmeh.com/htmx-with-aspnet-core)
 - [HTMX Requests with ASP.NET Core Anti-Forgery Tokens](https://khalidabuhakmeh.com/htmx-requests-with-aspnet-core-anti-forgery-tokens)
 - [HTMX and ASP.NET Core Swapping Techniques](https://khalidabuhakmeh.com/htmx-and-aspnet-core-swapping-techniques)
-- [Using HTMX with ASP.NET Core: Introduction](https://www.jerriepelser.com/blog/using-htmx-with-aspnet-core/) - Part of a series of blog posts on using HTMX with ASP.NET
 - [Notes on HTMX](https://blog.ajbothe.com/notes-on-htmx)
 - [Creating a Temperature Converter without a single line of JS](https://dev.to/rajasegar/creating-a-temperature-converter-without-a-single-line-of-js-4cp1)
 - [Creating a Counter component without a single line of JS](https://dev.to/rajasegar/creating-a-counter-component-without-a-single-line-of-js-42d5)
@@ -112,8 +111,6 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [aspnet-core-htmx-example](https://github.com/mryderie/aspnet-core-htmx-example) - Demonstrates the use of htmx with ASP.NET Core Razor Pages to create a simple CRUD web application.
 
 ### Clojure
-
-- [lagosta](https://github.com/jcpsantiago/lagosta) - Anti-fraud workflow automation using Clojure and HTMX.
 - [babashka-htmx-todoapp](https://github.com/prestancedesign/babashka-htmx-todoapp) - Quick example of a todo list application using Babashka and htmx.
 - [panas.example](https://github.com/keychera/panas.example) - Implementation of all [htmx examples](https://htmx.org/examples/) using Babashka.
 
@@ -129,7 +126,6 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Express
 
-- [express-ejs-htmx-playground](https://github.com/TomekKosakowski/express-ejs-htmx-playground) - Check and test how express works with EJS templates and htmx.
 - [Geo Selector in htmx](https://github.com/rajasegar/htmx-geo-selector) - A Region, Sub-Region and Country selector based on user selections.
 - [todomvc-htmx](https://github.com/rajasegar/todomvc-htmx) - TodoMVC app implemented using htmx and hyperscript.
 - [hx-swap-demo](https://github.com/rajasegar/hx-swap-demo) - A demo app to showcase different attribute values of hx-swap in htmx.
@@ -139,8 +135,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [todo-htmx](https://github.com/rajasegar/todo-htmx) - A simple Todo list with Express and htmx.
 - [htmx-calendar](https://github.com/rajasegar/htmx-calendar) - Calendar component in htmx.
 - [htmx-tabular](https://github.com/rajasegar/htmx-tabular) - Tabular data with htmx.
-- [htmbox](https://github.com/rajasegar/htmx-dropbox) - A Dropbox clone in htmx. [Live Demo](https://htmbox.herokuapp.com)
-- [htmx-notes](https://github.com/rajasegar/htmx-notes) - A Note-taking app using Markdown inspired by React Server Components demo. [Live Demo](https://htmx-notes.herokuapp.com)
+- [htmbox](https://github.com/rajasegar/htmx-dropbox) - A Dropbox clone in htmx.
+- [htmx-notes](https://github.com/rajasegar/htmx-notes) - A Note-taking app using Markdown inspired by React Server Components demo.
 
 ### Go
 
@@ -213,6 +209,6 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [htmX](https://www.listennotes.com/podcasts/programmers-quickie/htmx-AwxIkj8mcQf/) - Podcast about htmx in Programmers quickie.
 - [Less JavaScript more HTMX](https://changelog.com/jsparty/171) - JSParty Episode about htmx with Carson.
 - [JavaScript right in HTML?](https://podcast.htmlallthethings.com/e/javascript-right-in-html-htmx-w-carson/) - HTMLallthethings episode with Carson.
-- [Django Chat: htmx - Carson Gross](https://www.djangochat.com/episodes/htmx-carson-gross)
+- [Django Chat: htmx - Carson Gross](https://djangochat.com/episodes/htmx-carson-gross)
 - [HTML All The Things - HTMX, Hyperscript, and More!](https://www.htmlallthethings.com/blog-posts/htmx-hyperscript-and-more)
 - [.NET Rocks! - htmx with Carson Gross](https://www.dotnetrocks.com/?show=1749) - An overview of htmx, and a discussion from a .NET perspective
