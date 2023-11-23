@@ -66,6 +66,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [ctmx](https://whamtet.github.io/ctmx/) - Clojure integration.
 - [django-htmx](https://github.com/adamchainz/django-htmx) - Django integration.
 - [django-js-lib-htmx](https://github.com/nonZero/django-js-lib-htmx) - Django package containing the htmx scripts.
+- [htmx-go](https://github.com/angelofallars/htmx-go) - Go integration compatible with `net/http`, prioritizing type safety.
 - [htmx-rails](https://github.com/rootstrap/htmx-rails) - Rails integration.
 - [htmx.net](https://github.com/khalidabuhakmeh/htmx.net) - ASP.NET Core integration (Htmx Extension Methods, TagHelpers, Htmx.Config)
 - [Giraffe.Htmx](https://github.com/bit-badger/Giraffe.Htmx) - Extensions for Giraffe to support development with htmx.
