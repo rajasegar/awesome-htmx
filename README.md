@@ -145,6 +145,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Pushup](https://github.com/adhocteam/pushup) - A server-side, page-oriented web framework for the Go programming language.
 - [Simple Counter App](https://github.com/chasefleming/elem-go/tree/main/examples/htmx-fiber-counter) - A simple counter app built with `htmx`, `elem-go`, and `Go Fiber`.
 - [Todo App](https://github.com/chasefleming/elem-go/tree/main/examples/htmx-fiber-todo) - A todo app built with `htmx`, `elem-go`, and `Go Fiber`.
+- [Realtime Todo App](https://github.com/gobijan/go-htmx-todo) - This is a Go Todo App using WebSockets, HTMX, and DOM-Morphing.
 
 ### Java
 
