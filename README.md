@@ -125,6 +125,9 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 - [Example todo app with the html.js framework](https://github.com/dctanner/htmljs-todo-example) - html.js is an elegent framework for hyper speed web apps.
 
+## Typescript
+- [TodoMVC App](https://github.com/syarul/htmx-todomvc) - TodoMVC App built with `Typescript`, `JSX`, `express`, `htmx` and `_hyperscript` deployed on vercel/netlify.
+
 ### Express
 
 - [Geo Selector in htmx](https://github.com/rajasegar/htmx-geo-selector) - A Region, Sub-Region and Country selector based on user selections.
@@ -146,6 +149,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Simple Counter App](https://github.com/chasefleming/elem-go/tree/main/examples/htmx-fiber-counter) - A simple counter app built with `htmx`, `elem-go`, and `Go Fiber`.
 - [Todo App](https://github.com/chasefleming/elem-go/tree/main/examples/htmx-fiber-todo) - A todo app built with `htmx`, `elem-go`, and `Go Fiber`.
 - [Realtime Todo App](https://github.com/gobijan/go-htmx-todo) - This is a Go Todo App using WebSockets, HTMX, and DOM-Morphing.
+- [TodoMVC App](https://github.com/syarul/todomvc-go-templ-htmx-_hyperscript) - TodoMVC App built with `Go`, `</>templ` `htmx` and `_hyperscript`.
 
 ### Java
 
