@@ -125,7 +125,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 - [Example todo app with the html.js framework](https://github.com/dctanner/htmljs-todo-example) - html.js is an elegent framework for hyper speed web apps.
 
-## Typescript
+### Typescript
 - [TodoMVC App](https://github.com/syarul/htmx-todomvc) - TodoMVC App built with `Typescript`, `JSX`, `express`, `htmx` and `_hyperscript` deployed on vercel/netlify.
 
 ### Express
