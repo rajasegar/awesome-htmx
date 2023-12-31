@@ -142,6 +142,9 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [htmbox](https://github.com/rajasegar/htmx-dropbox) - A Dropbox clone in htmx.
 - [htmx-notes](https://github.com/rajasegar/htmx-notes) - A Note-taking app using Markdown inspired by React Server Components demo.
 
+### Rust
+- [TodoMVC App](https://github.com/syarul/todomvc-rust-astra-maud-htmx-_hyperscript) - TodoMVC App built with `Rust`, `Astra`, `maud`, `HTMX` and `_hyperscript`. Astra runs a small event I/O loop and maud is blazing fast, super type-safe, and easy to deploy. 
+
 ### Go
 
 - [pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit in Go with HTMX support and examples.
