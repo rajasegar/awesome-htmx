@@ -63,7 +63,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Tools
 
 - [Sprig](https://putyourlightson.com/plugins/sprig) - Craft CMS plugin.
-- [ctmx](https://whamtet.github.io/ctmx/) - Clojure integration.
+- [simpleui](https://whamtet.github.io/simpleui/) - Clojure backend helpers for htmx.
 - [django-htmx](https://github.com/adamchainz/django-htmx) - Django integration.
 - [django-js-lib-htmx](https://github.com/nonZero/django-js-lib-htmx) - Django package containing the htmx scripts.
 - [htmx-go](https://github.com/angelofallars/htmx-go) - Go integration compatible with `net/http`, prioritizing type safety.
