@@ -114,6 +114,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ### Clojure
 - [babashka-htmx-todoapp](https://github.com/prestancedesign/babashka-htmx-todoapp) - Quick example of a todo list application using Babashka and htmx.
 - [panas.example](https://github.com/keychera/panas.example) - Implementation of all [htmx examples](https://htmx.org/examples/) using Babashka.
+- [contact.app-clj](https://github.com/rmrt1n/contact.app-clj) - Clojure implementation of the contact.app from the Hypermedia Systems book
 
 ### Common Lisp
 
