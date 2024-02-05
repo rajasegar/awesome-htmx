@@ -206,6 +206,10 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 - [dmvcframework-todo-app](https://github.com/danieleteti/delphi-dmvcframework-htmx-todo) - DelphiMVCFramework to-do app with HTMX and mustache templates
 
+### Zig
+
+- [zig-htmx](https://github.com/hendriknielaender/zig-htmx) - Example chat app written in zig + htmx (websockets).
+
 ### Other
 
 - [declswiplweb](https://github.com/Anniepoo/declswiplweb) - End to end declarative web programming with no JS using htmx and SWI-Prolog.
