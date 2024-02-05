@@ -59,6 +59,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Getting Started With HTMX In Laravel](https://muhammadshafeeq.com/posts/getting-started-with-htmx-in-laravel---an-overview/)
 - [Table Sorting and Pagination with HTMX in Laravel](https://muhammadshafeeq.com/posts/table-sorting-and-pagination-with-htmx-in-laravel/)
 - [Building a Counter App with `htmx`, `Go Fiber`, and `elem-go`](https://dev.to/chasefleming/building-a-counter-app-with-htmx-go-fiber-and-elem-go-9jd)
+- [Dancing with HTMX](https://advent.perldancer.org/2023/20)
 
 ## Tools
 
@@ -78,6 +79,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Hwy](https://hwy.dev) - Remix-inspired TypeScript metaframework using HTMX instead of React.
 - [DelphiMVCFramework](https://github.com/danieleteti/delphimvcframework) - DelphiMVCFramework integration support for htmx (class helper in MVCFramework.HTMX)
 - [elem-go](https://github.com/chasefleming/elem-go) - A Go library for building HTML with htmx.
+- [Mojolicious::Plugin::HTMX](Mojolicious::Plugin::HTMX) - An HTMX plugin for Mojolicious (a Perl web Framework)
 
 ## Videos
 
