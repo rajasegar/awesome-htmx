@@ -217,6 +217,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [declswiplweb](https://github.com/Anniepoo/declswiplweb) - End to end declarative web programming with no JS using htmx and SWI-Prolog.
 - [htmx-modal-example](https://github.com/benpate/htmx-modal-example) - An experiment to work design modal dialogs in HTMX.
 - [quarkus-htmx-todos](https://github.com/derkoe/quarkus-htmx-todos) - Todo App in Quarkus with htmx.
+- [htmx-ai](https://github.com/bufferhead-code/htmx-ai) - Use ChatGPT Code Generation as a Backend for HTMX
 
 ## Podcasts
 
