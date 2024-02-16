@@ -80,6 +80,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [DelphiMVCFramework](https://github.com/danieleteti/delphimvcframework) - DelphiMVCFramework integration support for htmx (class helper in MVCFramework.HTMX)
 - [elem-go](https://github.com/chasefleming/elem-go) - A Go library for building HTML with htmx.
 - [Mojolicious::Plugin::HTMX](Mojolicious::Plugin::HTMX) - An HTMX plugin for Mojolicious (a Perl web Framework)
+- [fasthx](https://volfpeter.github.io/fasthx/) - HTMX utility with decorator syntax for FastAPI that works with any templating engine (Jinja included).
 
 ## Videos
 
