@@ -105,6 +105,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [HTMX/hyperscript demo with Transitions](https://www.youtube.com/watch?v=cubi-UChwh8)
 - [janet/joy/htmx/tailwind | Making a url shortener](https://www.youtube.com/watch?v=KM1ic4k6Has)
 - [janet/joy/htmx/tailwind | Making a twitter competitor](https://www.youtube.com/watch?v=6eFw3yXasB4)
+- [HTMX Crash Course | Dynamic Pages Without Writing Any JavaScript](https://www.youtube.com/watch?v=0UvA7zvwsmg)
 
 ## Examples by Back-end
 
