@@ -81,6 +81,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [elem-go](https://github.com/chasefleming/elem-go) - A Go library for building HTML with htmx.
 - [Mojolicious::Plugin::HTMX](Mojolicious::Plugin::HTMX) - An HTMX plugin for Mojolicious (a Perl web Framework)
 - [fasthx](https://volfpeter.github.io/fasthx/) - HTMX utility with decorator syntax for FastAPI that works with any templating engine (Jinja included).
+- [ludic](https://github.com/paveldedik/ludic) - Lightweight framework for building dynamic HTML pages in pure Python with HTMX.
 
 ## Videos
 
