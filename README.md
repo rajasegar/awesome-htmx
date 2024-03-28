@@ -60,6 +60,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Table Sorting and Pagination with HTMX in Laravel](https://muhammadshafeeq.com/posts/table-sorting-and-pagination-with-htmx-in-laravel/)
 - [Building a Counter App with `htmx`, `Go Fiber`, and `elem-go`](https://dev.to/chasefleming/building-a-counter-app-with-htmx-go-fiber-and-elem-go-9jd)
 - [Dancing with HTMX](https://advent.perldancer.org/2023/20)
+- [Modal forms with Django+HTMX](https://blog.benoitblanchon.fr/django-htmx-modal-form)
+- [Toasts with Django+HTMX](https://blog.benoitblanchon.fr/django-htmx-toasts/)
 
 ## Tools
 
@@ -108,6 +110,9 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [janet/joy/htmx/tailwind | Making a url shortener](https://www.youtube.com/watch?v=KM1ic4k6Has)
 - [janet/joy/htmx/tailwind | Making a twitter competitor](https://www.youtube.com/watch?v=6eFw3yXasB4)
 - [HTMX Crash Course | Dynamic Pages Without Writing Any JavaScript](https://www.youtube.com/watch?v=0UvA7zvwsmg)
+- [Modal forms with Django+HTMX](https://www.youtube.com/watch?v=3dyQigrEj8A)
+- [Toasts with Django+HTMX](https://www.youtube.com/watch?v=pAtrj8A-Kl4)
+- [Découverte de HTMX, pour faire de l'ajax sans JavaScript (French Tutorial)](https://www.youtube.com/watch?v=akPqAsZUGz0)
 
 ## Examples by Back-end
 
@@ -194,6 +199,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Flask-Sock HTMX](https://github.com/paluigi/flask-htmx) - Very short example combining HTMX with [Flask-Sock](https://flask-sock.readthedocs.io/en/latest/) for self-updating webpages with minimal dependencies.
 - [django-tailwind-alpine-htmx](https://github.com/AccordBox/django-tailwind-alpine-htmx) A simple Task app built with Django, Tailwind CSS, Alpine.js and HTMX
 - [flask-htmx-tailwind](https://github.com/testdrivenio/flask-htmx-tailwind) - Rapid Prototyping with Flask, htmx, and Tailwind CSS
+- [Modal forms with Django+HTMX](https://github.com/bblanchon/django-htmx-modal-form) - A sample project to demonstrates how to show a Django Form in a modal dialog box using HTMX.
 
 ### Ruby
 
