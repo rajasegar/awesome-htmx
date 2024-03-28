@@ -62,6 +62,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Dancing with HTMX](https://advent.perldancer.org/2023/20)
 - [Modal forms with Django+HTMX](https://blog.benoitblanchon.fr/django-htmx-modal-form)
 - [Toasts with Django+HTMX](https://blog.benoitblanchon.fr/django-htmx-toasts/)
+- [Laravel + HTMX - Hard Mode](https://spirofloropoulos.com/laravel-htmx-hard-mode-1.html) interesting ways to handle complicated user interface elements with Laravel and HTMX by Spiro Floropoulos 
 
 ## Tools
 
@@ -113,6 +114,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Modal forms with Django+HTMX](https://www.youtube.com/watch?v=3dyQigrEj8A)
 - [Toasts with Django+HTMX](https://www.youtube.com/watch?v=pAtrj8A-Kl4)
 - [Découverte de HTMX, pour faire de l'ajax sans JavaScript (French Tutorial)](https://www.youtube.com/watch?v=akPqAsZUGz0)
+- [From React To HTMX](https://www.youtube.com/watch?v=wIzwyyHolRs) 2023-08 The Primeagen 
 
 ## Examples by Back-end
 
