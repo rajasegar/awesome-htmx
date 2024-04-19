@@ -62,6 +62,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Dancing with HTMX](https://advent.perldancer.org/2023/20)
 - [Modal forms with Django+HTMX](https://blog.benoitblanchon.fr/django-htmx-modal-form)
 - [Toasts with Django+HTMX](https://blog.benoitblanchon.fr/django-htmx-toasts/)
+- [Laravel + HTMX - Hard Mode](https://spirofloropoulos.com/laravel-htmx-hard-mode-1.html) interesting ways to handle complicated user interface elements with Laravel and HTMX by Spiro Floropoulos 
 - [Using htmx with Spring Boot and Thymeleaf](https://bootify.io/frontend/htmx-with-spring-boot-thymeleaf.html)
 - [Htmx error handling in Spring Boot apps](https://bootify.io/frontend/htmx-error-handling-in-spring-boot.html)
 
@@ -116,6 +117,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Modal forms with Django+HTMX](https://www.youtube.com/watch?v=3dyQigrEj8A)
 - [Toasts with Django+HTMX](https://www.youtube.com/watch?v=pAtrj8A-Kl4)
 - [Découverte de HTMX, pour faire de l'ajax sans JavaScript (French Tutorial)](https://www.youtube.com/watch?v=akPqAsZUGz0)
+- [From React To HTMX](https://www.youtube.com/watch?v=wIzwyyHolRs) 2023-08 The Primeagen 
 
 ## Examples by Back-end
 
@@ -242,3 +244,5 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Django Chat: htmx - Carson Gross](https://djangochat.com/episodes/htmx-carson-gross)
 - [HTML All The Things - HTMX, Hyperscript, and More!](https://www.htmlallthethings.com/blog-posts/htmx-hyperscript-and-more)
 - [.NET Rocks! - htmx with Carson Gross](https://www.dotnetrocks.com/?show=1749) - An overview of htmx, and a discussion from a .NET perspective
+- [Syntax.fm #726 - Is HTMX a Joke?](https://syntax.fm/show/726/is-htmx-a-joke) "A JS library that lets you swap out parts of the user interface with a response from a server" - Scott Tolinski 
+- [Syntax.fm #734 - HTMX Web Apps with Carson Gross](https://syntax.fm/show/734/htmx-web-apps-with-carson-gross) 2024-02-23
