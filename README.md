@@ -142,6 +142,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ### JavaScript
 
 - [Example todo app with the html.js framework](https://github.com/dctanner/htmljs-todo-example) - html.js is an elegent framework for hyper speed web apps.
+- [Primate HTMX module](https://primatejs.com/modules/htmx) - Polymorphic
+development platform with support for many frontends, including HTMX.
 
 ### Typescript
 
