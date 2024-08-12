@@ -237,6 +237,10 @@ development platform with support for many frontends, including HTMX.
 
 - [zig-htmx](https://github.com/hendriknielaender/zig-htmx) - Example chat app written in zig + htmx (websockets).
 
+### Lua
+
+- [TodoMVC App](https://github.com/syarul/todomvc-lua-luasocket-htmx-_hyperscript) - TodoMVC App built with `Lua`, `Luasocket`, `HTMX` and `_hyperscript`. Lua is fast and lightweight where virtually map very close to C.
+
 ### Other
 
 - [declswiplweb](https://github.com/Anniepoo/declswiplweb) - End to end declarative web programming with no JS using htmx and SWI-Prolog.
