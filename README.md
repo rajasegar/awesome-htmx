@@ -149,6 +149,10 @@ development platform with support for many frontends, including HTMX.
 
 - [TodoMVC App](https://github.com/syarul/htmx-todomvc) - TodoMVC App built with `Typescript`, `JSX`, `express`, `htmx` and `_hyperscript` deployed on vercel/netlify.
 
+### AdonisJS
+
+- [TodoMVC App](https://github.com/syarul/todomvc-adonisjs-react-htmx-_hyperscript) - TodoMVC App built with `AdonisJS`, `htmx` and `_hyperscript` following the standard AdonisJS guidelines for server framework
+
 ### Express
 
 - [Geo Selector in htmx](https://github.com/rajasegar/htmx-geo-selector) - A Region, Sub-Region and Country selector based on user selections.
@@ -232,6 +236,10 @@ development platform with support for many frontends, including HTMX.
 ### Zig
 
 - [zig-htmx](https://github.com/hendriknielaender/zig-htmx) - Example chat app written in zig + htmx (websockets).
+
+### Lua
+
+- [TodoMVC App](https://github.com/syarul/todomvc-lua-luasocket-htmx-_hyperscript) - TodoMVC App built with `Lua`, `Luasocket`, `HTMX` and `_hyperscript`. Lua is fast and lightweight where virtually map very close to C.
 
 ### Other
 
