@@ -236,6 +236,7 @@ development platform with support for many frontends, including HTMX.
 ### Zig
 
 - [zig-htmx](https://github.com/hendriknielaender/zig-htmx) - Example chat app written in zig + htmx (websockets).
+- [zig-htmx-tailwind-example](https://github.com/dgv/zig-htmx-tailwind-example) - CRUD app written in Zig + HTMX + Tailwind CSS.
 
 ### Lua
 
