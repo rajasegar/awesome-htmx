@@ -90,6 +90,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Bootify.io](https://bootify.io) - Create Spring Boot apps with Thymeleaf and htmx in the browser.
 - [HTMX for ⚡️ fiber](https://github.com/ZEISS/fiber-htmx) - 🔨Write HTML and HTMX applications in pure Go using ⚡️ fiber. And lot more ...
 - [swift-http-types-htmx](https://github.com/alephao/swift-http-types-htmx) - HTMX extensions for swift-http-types
+- [htmx-debugger](https://github.com/NomadicDaddy/htmx-debugger) - A Chrome extension for debugging and viewing htmx events and attributes
 
 ## Videos
 
@@ -242,6 +243,10 @@ development platform with support for many frontends, including HTMX.
 ### Lua
 
 - [TodoMVC App](https://github.com/syarul/todomvc-lua-luasocket-htmx-_hyperscript) - TodoMVC App built with `Lua`, `Luasocket`, `HTMX` and `_hyperscript`. Lua is fast and lightweight where virtually map very close to C.
+
+### PowerShell
+
+- [podex](https://github.com/adminware/podex) - Podex - a framework for building full-stack web applications using PowerShell/Pode for the backend and htmx for the frontend.
 
 ### Other
 
