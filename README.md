@@ -65,6 +65,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Laravel + HTMX - Hard Mode](https://spirofloropoulos.com/laravel-htmx-hard-mode-1.html) interesting ways to handle complicated user interface elements with Laravel and HTMX by Spiro Floropoulos
 - [Using htmx with Spring Boot and Thymeleaf](https://bootify.io/frontend/htmx-with-spring-boot-thymeleaf.html)
 - [Htmx error handling in Spring Boot apps](https://bootify.io/frontend/htmx-error-handling-in-spring-boot.html)
+- [A minimalist newsletter signup app with HTMX and Manifest](https://dev.to/bd_perez/a-minimalist-newsletter-signup-app-with-htmx-and-manifest-4lg6)
 
 ## Tools
 
@@ -247,6 +248,10 @@ development platform with support for many frontends, including HTMX.
 ### PowerShell
 
 - [podex](https://github.com/adminware/podex) - Podex - a framework for building full-stack web applications using PowerShell/Pode for the backend and htmx for the frontend.
+
+### YAML
+
+- [demo-htmx-manifest](https://github.com/brunobuddy/demo-htmx-manifest) - Newsletter signup app with Manifest + HTMX.
 
 ### Other
 
