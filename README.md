@@ -92,6 +92,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [swift-http-types-htmx](https://github.com/alephao/swift-http-types-htmx) - HTMX extensions for swift-http-types
 - [htmx-debugger](https://github.com/NomadicDaddy/htmx-debugger) - A Chrome extension for debugging and viewing htmx events and attributes
 - [htmx-lsp](https://github.com/ThePrimeagen/htmx-lsp) - Language Server Protocol for Neovim to supercharge HTMX development
+- [Clace](https://github.com/claceio/clace) - Hypermedia based internal tools for teams. Application server for containerized apps.
 
 ## Videos
 
