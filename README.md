@@ -66,6 +66,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Using htmx with Spring Boot and Thymeleaf](https://bootify.io/frontend/htmx-with-spring-boot-thymeleaf.html)
 - [Htmx error handling in Spring Boot apps](https://bootify.io/frontend/htmx-error-handling-in-spring-boot.html)
 - [A minimalist newsletter signup app with HTMX and Manifest](https://dev.to/bd_perez/a-minimalist-newsletter-signup-app-with-htmx-and-manifest-4lg6)
+- [Merry Cromas (Raku Advent post, Cro implementation of Fragments with HTMX Examples)](https://raku-advent.blog/2024/12/03/day-3-merry-cromas/)
 
 ## Tools
 
@@ -95,6 +96,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [htmx-lsp](https://github.com/ThePrimeagen/htmx-lsp) - Language Server Protocol for Neovim to supercharge HTMX development
 - [Clace](https://github.com/claceio/clace) - Hypermedia based internal tools for teams. Application server for containerized apps.
 - [CakePHP-htmx](https://github.com/zunnu/cake-htmx) - CakePHP integration for Htmx.
+- [The hArc Stack](https://harcstack.org) - Combining HTMX with raku Air, Red and Cro so that you can just build websites the right way™.
 
 ## Videos
 
