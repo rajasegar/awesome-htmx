@@ -66,6 +66,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Using htmx with Spring Boot and Thymeleaf](https://bootify.io/frontend/htmx-with-spring-boot-thymeleaf.html)
 - [Htmx error handling in Spring Boot apps](https://bootify.io/frontend/htmx-error-handling-in-spring-boot.html)
 - [A minimalist newsletter signup app with HTMX and Manifest](https://dev.to/bd_perez/a-minimalist-newsletter-signup-app-with-htmx-and-manifest-4lg6)
+- [Little HTMX Book](https://littlehtmxbook.com/)
 
 ## Tools
 
