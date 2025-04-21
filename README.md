@@ -67,6 +67,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Htmx error handling in Spring Boot apps](https://bootify.io/frontend/htmx-error-handling-in-spring-boot.html)
 - [A minimalist newsletter signup app with HTMX and Manifest](https://dev.to/bd_perez/a-minimalist-newsletter-signup-app-with-htmx-and-manifest-4lg6)
 - [Merry Cromas (Raku Advent post, Cro implementation of Fragments with HTMX Examples)](https://raku-advent.blog/2024/12/03/day-3-merry-cromas/)
+- [Little HTMX Book](https://littlehtmxbook.com/)
 
 ## Tools
 
@@ -188,6 +189,7 @@ development platform with support for many frontends, including HTMX.
 - [Realtime Todo App](https://github.com/gobijan/go-htmx-todo) - This is a Go Todo App using WebSockets, HTMX, and DOM-Morphing.
 - [TodoMVC App](https://github.com/syarul/todomvc-go-templ-htmx-_hyperscript) - TodoMVC App built with `Go`, `</>templ`, `htmx` and `_hyperscript`.
 - [GO HTMX](https://github.com/donseba/go-htmx) - Seamless HTMX Integration for Go Applications.
+- [Probe](https://github.com/michaeljsaenz/probe) - Probe is a Go web app with an HTMX-enhanced UI for interacting with Kubernetes clusters and performing network diagnostics.
 
 ### Java
 
