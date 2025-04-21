@@ -187,6 +187,7 @@ development platform with support for many frontends, including HTMX.
 - [Realtime Todo App](https://github.com/gobijan/go-htmx-todo) - This is a Go Todo App using WebSockets, HTMX, and DOM-Morphing.
 - [TodoMVC App](https://github.com/syarul/todomvc-go-templ-htmx-_hyperscript) - TodoMVC App built with `Go`, `</>templ`, `htmx` and `_hyperscript`.
 - [GO HTMX](https://github.com/donseba/go-htmx) - Seamless HTMX Integration for Go Applications.
+- [Probe](https://github.com/michaeljsaenz/probe) - Probe is a Go web app with an HTMX-enhanced UI for interacting with Kubernetes clusters and performing network diagnostics.
 
 ### Java
 
