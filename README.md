@@ -241,7 +241,7 @@ development platform with support for many frontends, including HTMX.
 
 ### Delphi
 
-- [dmvcframework-todo-app](https://github.com/danieleteti/delphi-dmvcframework-htmx-todo) - DelphiMVCFramework to-do app with HTMX and mustache templates
+- [dmvcframework-todo-app](https://github.com/danieleteti/delphi-dmvcframework-htmx-todo) - DelphiMVCFramework to-do app with HTMX and TemplatePro templates
 
 ### Zig
 
