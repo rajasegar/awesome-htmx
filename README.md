@@ -129,6 +129,10 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Découverte de HTMX, pour faire de l'ajax sans JavaScript (French Tutorial)](https://www.youtube.com/watch?v=akPqAsZUGz0)
 - [From React To HTMX](https://www.youtube.com/watch?v=wIzwyyHolRs) 2023-08 The Primeagen
 
+## Online Books
+
+- [ASP.NET Core Reimagined with htmx Book](https://aspnet-htmx.com/)
+
 ## Examples by Back-end
 
 ### ASP.net
