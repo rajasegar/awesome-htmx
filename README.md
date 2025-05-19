@@ -68,6 +68,11 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [A minimalist newsletter signup app with HTMX and Manifest](https://dev.to/bd_perez/a-minimalist-newsletter-signup-app-with-htmx-and-manifest-4lg6)
 - [Merry Cromas (Raku Advent post, Cro implementation of Fragments with HTMX Examples)](https://raku-advent.blog/2024/12/03/day-3-merry-cromas/)
 - [Little HTMX Book](https://littlehtmxbook.com/)
+- [Loading More with Less: Infinite Scrolling in Go and HTMX](https://wawand.co/blog/posts/infinite-scroll-with-go-and-htmx/)
+- [Creating Engaging User Experiences: Skeleton Loading with Go and HTMX](https://wawand.co/blog/posts/skeleton-loading-with-go-and-htmx/)
+- [Deploying a Go and Postgres Application using Koyeb](https://wawand.co/blog/posts/deploying-a-go-app-to-koyeb/)
+- [Deploying a Go and HTMX Application using Digital Ocean](https://wawand.co/blog/posts/go-htmx-and-do/)
+- [Deploying a Go and HTMX App on Render: A Technical Guide](https://wawand.co/blog/posts/go-htmx-and-render/)
 
 ## Tools
 
