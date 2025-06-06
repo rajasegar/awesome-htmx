@@ -96,7 +96,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [fasthx](https://volfpeter.github.io/fasthx/) - HTMX utility with decorator syntax for FastAPI that works with any templating engine (Jinja included).
 - [ludic](https://github.com/paveldedik/ludic) - Lightweight framework for building dynamic HTML pages in pure Python with HTMX.
 - [Bootify.io](https://bootify.io) - Create Spring Boot apps with Thymeleaf and htmx in the browser.
-- [HTMX for ⚡️ fiber](https://github.com/ZEISS/fiber-htmx) - 🔨Write HTML and HTMX applications in pure Go using ⚡️ fiber. And lot more ...
+- [HTMX](https://github.com/katallaxie/htmx) 🔨Write HTML and HTMX applications in pure Go and a lot more.
+- [HTMX for ⚡️ fiber](https://github.com/ZEISS/fiber-htmx) - A middleware to render [HTMX](https://github.com/katallaxie/htmx) components.
 - [swift-http-types-htmx](https://github.com/alephao/swift-http-types-htmx) - HTMX extensions for swift-http-types
 - [htmx-debugger](https://github.com/NomadicDaddy/htmx-debugger) - A Chrome extension for debugging and viewing htmx events and attributes
 - [htmx-lsp](https://github.com/ThePrimeagen/htmx-lsp) - Language Server Protocol for Neovim to supercharge HTMX development
