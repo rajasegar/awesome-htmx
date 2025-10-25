@@ -73,6 +73,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Deploying a Go and Postgres Application using Koyeb](https://wawand.co/blog/posts/deploying-a-go-app-to-koyeb/)
 - [Deploying a Go and HTMX Application using Digital Ocean](https://wawand.co/blog/posts/go-htmx-and-do/)
 - [Deploying a Go and HTMX App on Render: A Technical Guide](https://wawand.co/blog/posts/go-htmx-and-render/)
+- [Setting up Go templ with Tailwind, HTMX and Docker](https://mbaraa.com/blog/setting-up-go-templ-with-tailwind-htmx-docker)
 
 ## Tools
 
@@ -146,6 +147,10 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [htmx-with-aspnet-core](https://github.com/jerriepelser-blog/htmx-with-aspnet-core) - Htmx with asp.net core.
 - [aspnet-core-htmx-example](https://github.com/mryderie/aspnet-core-htmx-example) - Demonstrates the use of htmx with ASP.NET Core Razor Pages to create a simple CRUD web application.
 
+### C
+
+- [DankTodo](https://todo.dankstuff.net/) - The first htmx app with C (Ulfius).
+
 ### Clojure
 
 - [babashka-htmx-todoapp](https://github.com/prestancedesign/babashka-htmx-todoapp) - Quick example of a todo list application using Babashka and htmx.
@@ -200,6 +205,8 @@ development platform with support for many frontends, including HTMX.
 - [TodoMVC App](https://github.com/syarul/todomvc-go-templ-htmx-_hyperscript) - TodoMVC App built with `Go`, `</>templ`, `htmx` and `_hyperscript`.
 - [GO HTMX](https://github.com/donseba/go-htmx) - Seamless HTMX Integration for Go Applications.
 - [Probe](https://github.com/michaeljsaenz/probe) - Probe is a Go web app with an HTMX-enhanced UI for interacting with Kubernetes clusters and performing network diagnostics.
+- [DankMuzikk](https://dankmuzikk.com) - Create, share, and play music playlists with the full hypermedia music player, written with `Go`, `</>templ`, `htmx` and `_hyperscript`.
+- [DankLyrics](https://danklyrics.com) - A lyrics finder API, Website and Go package, written with `Go`, `htmx` and `_hyperscript`.
 
 ### Java
 
