@@ -4,6 +4,7 @@ An awesome list of resources about **htmx** such as articles, posts, videos, tal
 
 Hoping to keep this list updated as much as possible, any new links through PRs are appreciated.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for HTMX development workflow orchestration, automated code review, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Official](#official)
