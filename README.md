@@ -76,6 +76,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Tools
 
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 - [Sprig](https://putyourlightson.com/plugins/sprig) - Craft CMS plugin.
 - [simpleui](https://whamtet.github.io/simpleui/) - Clojure backend helpers for htmx.
 - [django-htmx](https://github.com/adamchainz/django-htmx) - Django integration.
