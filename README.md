@@ -104,6 +104,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Clace](https://github.com/claceio/clace) - Hypermedia based internal tools for teams. Application server for containerized apps.
 - [CakePHP-htmx](https://github.com/zunnu/cake-htmx) - CakePHP integration for Htmx.
 - [The hArc Stack](https://harcstack.org) - Combining HTMX with raku Air, Red and Cro so that you can just build websites the right way™.
+- [sprae](https://github.com/dy/sprae) - Client-side reactivity in HTML attributes, to pair with htmx for local UI state without a build step.
 
 ## Videos
 
