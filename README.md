@@ -73,6 +73,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Deploying a Go and Postgres Application using Koyeb](https://wawand.co/blog/posts/deploying-a-go-app-to-koyeb/)
 - [Deploying a Go and HTMX Application using Digital Ocean](https://wawand.co/blog/posts/go-htmx-and-do/)
 - [Deploying a Go and HTMX App on Render: A Technical Guide](https://wawand.co/blog/posts/go-htmx-and-render/)
+- [Writing HDAs with HTMX and C++](https://blog.brakmic.com/writing-hdas-with-htmx-and-c)
 
 ## Tools
 
@@ -160,6 +161,9 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [ccl-demo-raja](https://github.com/rajasegar/ccl-demo-raja) - A Common Lisp demo with htmx using Star wars API.
 - [cl-trello-clone](https://github.com/rajasegar/cl-trello-clone) - A small Trello clone built in Common Lisp
 - [cl-github-timeline](https://github.com/rajasegar/cl-github-timeline) Github timeline in Common Lisp, and [another example based on this one](https://github.com/vlcinsky/python-fastapi-github-timeline) using FastAPI.
+
+### C++
+- [HDA_with_Cpp](https://github.com/brakmic/HDA_with_Cpp) - Hypermedia-driven app example in C++. [Demo site](https://hypermedia.software)
 
 ### JavaScript
 
