@@ -88,6 +88,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [IntelliJ htmx plugin](https://plugins.jetbrains.com/plugin/20588-htmx-support)
 - [codeigniter-htmx](https://github.com/michalsn/codeigniter-htmx) - CodeIgniter 4 framework integration.
 - [htmx-ext-shoelace](https://github.com/benopotamus/htmx-ext-shoelace) - An extension to make Shoelace elements work seamlessly with HTMX.
+- [htmx-ext-layers](https://github.com/bgurmendi/htmx-ext-layers) - An extension that adds stacked modal `<dialog>` "layers", multi-step wizards and returning results to the opener, driven declaratively from HTML attributes or response headers.
 - [laravel-htmx](https://github.com/mauricius/laravel-htmx) - Laravel integration for htmx.
 - [Hwy](https://hwy.dev) - Remix-inspired TypeScript metaframework using HTMX instead of React.
 - [DelphiMVCFramework](https://github.com/danieleteti/delphimvcframework) - DelphiMVCFramework integration support for htmx (class helper in MVCFramework.HTMX)
