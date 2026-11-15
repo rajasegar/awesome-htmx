@@ -239,6 +239,7 @@ development platform with support for many frontends, including HTMX.
 - [flask-htmx-tailwind](https://github.com/testdrivenio/flask-htmx-tailwind) - Rapid Prototyping with Flask, htmx, and Tailwind CSS
 - [Modal forms with Django+HTMX](https://github.com/bblanchon/django-htmx-modal-form) - A sample project to demonstrates how to show a Django Form in a modal dialog box using HTMX.
 - [fastapi-htmx-tailwind-example](https://github.com/volfpeter/fastapi-htmx-tailwind-example) - Async `FastAPI`, `Jinja2`, `TailwindCSS`, `DaisyUI`, and `MongoDB` example; featuring for example active search, server-sent events, server-side HTMX triggers, lazy loading, and dynamic dialogs.
+- [socnet](https://github.com/monosans/socnet) - Social network built with Django and htmx: posts, comments, likes, subscriptions, a news feed, search, and real-time messages over WebSockets with Django Channels.
 
 ### Ruby
 
