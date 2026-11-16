@@ -107,6 +107,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [The hArc Stack](https://harcstack.org) - Combining HTMX with raku Air, Red and Cro so that you can just build websites the right way™.
 - [sprae](https://github.com/dy/sprae) - Client-side reactivity in HTML attributes, to pair with htmx for local UI state without a build step.
 - [go-partial](https://github.com/donseba/go-partial) - Go integration that renders a full page or only the targeted partial from the same html/template tree, for htmx 2 and 4.
+- [Alloy CSS](https://github.com/alloyhtml/css) - One stylesheet for server-rendered pages: dialogs, menus, drawers, tabs and toasts that work with no JavaScript, so htmx partials need no extra library.
 
 ## Videos
 
