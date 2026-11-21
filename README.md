@@ -109,6 +109,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [sprae](https://github.com/dy/sprae) - Client-side reactivity in HTML attributes, to pair with htmx for local UI state without a build step.
 - [go-partial](https://github.com/donseba/go-partial) - Go integration that renders a full page or only the targeted partial from the same html/template tree, for htmx 2 and 4.
 - [Alloy CSS](https://github.com/alloyhtml/css) - One stylesheet for server-rendered pages: dialogs, menus, drawers, tabs and toasts that work with no JavaScript, so htmx partials need no extra library.
+- [Citry](https://citry.dev/guides/htmx/) - Citry integration for HTMX. Citry renders an HTML fragment, HTMX inserts it.
 
 ## Videos
 
