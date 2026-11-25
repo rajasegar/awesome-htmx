@@ -246,6 +246,7 @@ development platform with support for many frontends, including HTMX.
 - [Modal forms with Django+HTMX](https://github.com/bblanchon/django-htmx-modal-form) - A sample project to demonstrates how to show a Django Form in a modal dialog box using HTMX.
 - [fastapi-htmx-tailwind-example](https://github.com/volfpeter/fastapi-htmx-tailwind-example) - Async `FastAPI`, `Jinja2`, `TailwindCSS`, `DaisyUI`, and `MongoDB` example; featuring for example active search, server-sent events, server-side HTMX triggers, lazy loading, and dynamic dialogs.
 - [socnet](https://github.com/monosans/socnet) - Social network built with Django and htmx: posts, comments, likes, subscriptions, a news feed, search, and real-time messages over WebSockets with Django Channels.
+- [Huismus](https://github.com/codebyarne/huismus) - Self-hosted bookkeeping for Dutch freelancers: quotes, invoices and credit notes as PDFs, expenses with receipts, VAT reports. Built with Django, htmx and SQLite, without a JavaScript build step.
 
 ### Ruby
 
